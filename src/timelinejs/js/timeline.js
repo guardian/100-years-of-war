@@ -5245,7 +5245,8 @@ if(typeof VMM != 'undefined' && typeof VMM.Slider == 'undefined') {
 				config.slider.content.padding	= config.slider.content.padding_default;
 			}
 			
-			config.slider.content.width = current_width - (config.slider.content.padding *2);
+			// config.slider.content.width = current_width - (config.slider.content.padding *2);
+			config.slider.content.width = current_width;
 			
 			VMM.Lib.width($slides_items, (slides.length * config.slider.content.width));
 			
@@ -5459,7 +5460,7 @@ if(typeof VMM != 'undefined' && typeof VMM.Slider == 'undefined') {
 				layout_media			= ".slider-item .layout-media .media .media-container ",
 				layout_both				= ".slider-item .media .media-container",
 				layout_caption			= ".slider-item .media .media-container .media-shadow .caption",
-				is_skinny				= false,
+				is_skinny				= true,
 				mediasize = {
 					text_media: {
 						width: 			(config.slider.content.width/100) * 60,
@@ -5523,13 +5524,14 @@ if(typeof VMM != 'undefined' && typeof VMM.Slider == 'undefined') {
 				VMM.Lib.css(".slider-item .media blockquote p", "font-size", "16px" );
 				
 				VMM.Lib.css(".slider-item", "overflow-y", "auto" );
+				VMM.Lib.css(".slider-item", "display", "table" );
 				
 				
 			} else {
 				
-				VMM.Lib.css(".slider-item .layout-text-media .text", "width", "40%" );
-				VMM.Lib.css(".slider-item .layout-text-media .text", "display", "table-cell" );
-				VMM.Lib.css(".slider-item .layout-text-media .text .container", "display", "table-cell" );
+				VMM.Lib.css(".slider-item .layout-text-media .text", "width", "100%" );
+				// VMM.Lib.css(".slider-item .layout-text-media .text", "display", "table-cell" );
+				// VMM.Lib.css(".slider-item .layout-text-media .text .container", "display", "table-cell" );
 				VMM.Lib.css(".slider-item .layout-text-media .text .container", "width", "auto" );
 				VMM.Lib.css(".slider-item .layout-text-media .text .container .start", "width", mediasize.text_media.text.width );
 				//VMM.Lib.addClass(".slider-item .content-container", "pad-left");
@@ -5953,8 +5955,9 @@ if (typeof VMM.Slider != 'undefined') {
 		this.position = function() {
 			return VMM.Lib.position(element);
 		};
-		
+		//set left offset
 		this.leftpos = function(p) {
+			console.log(p);
 			if(typeof p != 'undefined') {
 				VMM.Lib.css(element, "left", p);
 			} else {
@@ -7148,11 +7151,13 @@ if(typeof VMM != 'undefined' && typeof VMM.Timeline == 'undefined') {
 			$timeline	= VMM.getElement(timeline_id);
 			VMM.Lib.addClass($timeline, "vco-timeline");
 			VMM.Lib.addClass($timeline, "vco-storyjs");
+			VMM.Lib.addClass($timeline, "vco-skinny");
 			
 			$container	= VMM.appendAndGetElement($timeline, "<div>", "vco-container vco-main");
+			$navigation	= VMM.appendAndGetElement($container, "<div>", "vco-navigation");
 			$feature	= VMM.appendAndGetElement($container, "<div>", "vco-feature");
 			$slider		= VMM.appendAndGetElement($feature, "<div>", "vco-slider");
-			$navigation	= VMM.appendAndGetElement($container, "<div>", "vco-navigation");
+			
 			$feedback	= VMM.appendAndGetElement($timeline, "<div>", "vco-feedback", "");
 			
 			
@@ -7475,9 +7480,7 @@ if(typeof VMM != 'undefined' && typeof VMM.Timeline == 'undefined') {
 			
 			if (config.width < 641) {
 				VMM.Lib.addClass($timeline, "vco-skinny");
-			} else {
-				VMM.Lib.removeClass($timeline, "vco-skinny");
-			}
+			} 
 			
 		};
 		
@@ -8335,8 +8338,8 @@ if(typeof VMM.Timeline != 'undefined' && typeof VMM.Timeline.TimeNav == 'undefin
 				pos_offset				= -2,
 				row_depth				= 0,
 				row_depth_sub			= 0,
-				line_last_height_pos	= 150,
-				line_height				= 6,
+				line_last_height_pos	= 0,
+				line_height				= 20,
 				cur_mark				= 0,
 				in_view_margin			= config.width,
 				pos_cache_array			= [],

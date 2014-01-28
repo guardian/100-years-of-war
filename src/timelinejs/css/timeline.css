@@ -579,7 +579,10 @@
         display:none
     }
 }
-@media (max-width:640px) {
+@media (max-width:655px) {
+    .vco-slider .slider-item{
+        margin-left:0 !important;
+    }
 }
 .vco-skinny .vco-slider .slider-item .content .layout-text-media .text .container {
     text-align:center !important
@@ -587,16 +590,16 @@
 .vco-skinny .vco-slider .slider-item .content .layout-text-media h2, .vco-skinny .vco-slider .slider-item .content .layout-text-media h3 {
     display:block !important;
     width:100% !important;
-    text-align:center !important
+    text-align:left !important
 }
 .vco-skinny .vco-slider .slider-item .content .content-container {
     display:block
 }
 .vco-skinny .vco-slider .slider-item .content .content-container .text {
-    width:100%;
+    width:100% !important;
     max-width:100%;
     min-width:120px;
-    display:block
+    display:block !important;
 }
 .vco-skinny .vco-slider .slider-item .content .content-container .text .container {
     display:block;
@@ -604,7 +607,8 @@
     -moz-hyphens:auto;
     -ms-hyphens:auto;
     hyphens:auto;
-    word-wrap:break-word
+    word-wrap:break-word;
+    margin: 0 auto;
 }
 .vco-skinny .vco-slider .slider-item .content .content-container .media {
     width:100%;
@@ -845,11 +849,14 @@
     padding:0;
     margin:0;
     display:table;
-    overflow-y:auto
+    overflow-y:auto;
+    margin-left:-131px;
+    text-align:center;
 }
 .vco-slider .slider-item .content {
-    display:table-cell;
+    display:inline-block;
     vertical-align:middle;
+    padding-top:50px;
 }
 .vco-slider .slider-item .content .pad-top .text .container {
     padding-top:15px
@@ -885,12 +892,13 @@
     -moz-hyphens:auto;
     -ms-hyphens:auto;
     hyphens:auto;
-    word-wrap:break-word
+    word-wrap:break-word;
+    text-align: left;
 }
 .vco-slider .slider-item .content .content-container .text .container h2.date {
     font-size:15px;
     line-height:15px;
-    font-weight:normal
+    font-weight:normal;
 }
 .vco-slider .slider-item .content .content-container .text .container .slide-tag {
     font-size:11px;
@@ -943,7 +951,7 @@
     background:#fff
 }
 .vco-slider .slider-item .content .content-container .media .media-wrapper .media-container .media-shadow:before, .vco-slider .slider-item .content .content-container .media .media-wrapper .media-container .media-shadow:after {
-    z-index:-1;
+    /*z-index:-1;
     position:absolute;
     content:"";
     bottom:15px;
@@ -959,16 +967,16 @@
     -moz-transform:rotate(-2deg);
     -ms-transform:rotate(-2deg);
     -o-transform:rotate(-2deg);
-    transform:rotate(-2deg)
+    transform:rotate(-2deg)*/
 }
 .vco-slider .slider-item .content .content-container .media .media-wrapper .media-container .media-shadow::after {
-    -webkit-transform:rotate(2deg);
+/*    -webkit-transform:rotate(2deg);
     -moz-transform:rotate(2deg);
     -ms-transform:rotate(2deg);
     -o-transform:rotate(2deg);
     transform:rotate(2deg);
     right:10px;
-    left:auto
+    left:auto*/
 }
 .vco-slider .slider-item .content .content-container .media .media-wrapper .media-container .plain-text {
     display:table
@@ -1323,9 +1331,9 @@
     position:relative;
     z-index:10;
     padding-top:15px;
-    -webkit-box-shadow:1px 1px 7px rgba(0, 0, 0, 0.3);
+    /*-webkit-box-shadow:1px 1px 7px rgba(0, 0, 0, 0.3);
     -moz-box-shadow:1px 1px 7px rgba(0, 0, 0, 0.3);
-    box-shadow:1px 1px 7px rgba(0, 0, 0, 0.3)
+    box-shadow:1px 1px 7px rgba(0, 0, 0, 0.3)*/
 }
 .vco-storyjs .vco-feedback {
     position:absolute;
@@ -1693,7 +1701,7 @@
     clear:both;
     cursor:move;
     width:100%;
-    height:200px;
+    height:170px;
     border-top:1px solid #e3e3e3;
     position:relative
 }
@@ -1797,7 +1805,7 @@
 .vco-timeline .vco-navigation .timenav-background {
     position:absolute;
     cursor:move;
-    top:0;
+    top:20px;
     left:0;
     height:150px;
     width:100%;
@@ -1810,9 +1818,9 @@
     background:#fff;
     width:100%;
     height:49px;
-    -webkit-box-shadow:-1px -1px 7px rgba(0, 0, 0, 0.1);
+    /*-webkit-box-shadow:-1px -1px 7px rgba(0, 0, 0, 0.1);
     -moz-box-shadow:-1px -1px 7px rgba(0, 0, 0, 0.1);
-    box-shadow:-1px -1px 7px rgba(0, 0, 0, 0.1)
+    box-shadow:-1px -1px 7px rgba(0, 0, 0, 0.1)*/
 }
 .vco-timeline .vco-navigation .timenav-background .timenav-interval-background .top-highlight {
     position:absolute;
@@ -1832,10 +1840,10 @@
 }
 .vco-timeline .vco-navigation .timenav-background .timenav-line {
     position:absolute;
-    top:0;
+    top:-20px;
     left:50%;
     width:3px;
-    height:150px;
+    height:170px;
     background-color:#08c;
     z-index:1;
     -webkit-box-shadow:1px 1px 7px rgba(0, 0, 0, 0.3);
@@ -1844,7 +1852,7 @@
 }
 .vco-timeline .vco-navigation .timenav-background .timenav-indicator {
     position:absolute;
-    top:-1px;
+    top:-21px;
     left:50%;
     z-index:202;
     background-image:url(timeline.png?v4.4);
@@ -1906,7 +1914,7 @@
     width:1px
 }
 .vco-timeline .vco-navigation .timenav .content .marker.active .line .event-line {
-    background:#08c;
+    background:#000;
     filter:alpha(opacity=75);
     -khtml-opacity:.75;
     -moz-opacity:.75;
@@ -1969,11 +1977,12 @@
     -webkit-border-radius:3px;
     -moz-border-radius:3px;
     border-radius:3px;
-    z-index:21
+    z-index:21;
+    display:none;
 }
 .vco-timeline .vco-navigation .timenav .content .marker .line {
     position:absolute;
-    top:0;
+    top:20px;
     left:3px;
     width:1px;
     height:150px;
@@ -1994,7 +2003,8 @@
     filter:alpha(opacity=15);
     -khtml-opacity:.15;
     -moz-opacity:.15;
-    opacity:.15
+    opacity:.15;
+    top:-20px;
 }
 .vco-timeline .vco-navigation .timenav .content .marker .flag, .vco-timeline .vco-navigation .timenav .content .marker .flag-small {
     position:absolute;
@@ -2058,7 +2068,8 @@
     background-repeat:no-repeat;
     background-position:0 0;
     width:153px;
-    height:53px
+    height:53px;
+    margin-top:20px;
 }
 .vco-timeline .vco-navigation .timenav .content .marker .flag .flag-content {
     height:36px
@@ -2316,7 +2327,7 @@
 .vco-timeline .vco-navigation .timenav .time {
     position:absolute;
     left:0;
-    top:150px;
+    top:0;
     height:50px;
     background-color:#fff;
     line-height:0
