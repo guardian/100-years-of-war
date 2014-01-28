@@ -1,0 +1,26 @@
+{
+  "name": "100_years_of_war",
+  "version": "0.0.0",
+  "description": "Timeline JS history of 100 years at war",
+  "main": "src/index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GuardianInteractive/100-years-of-war"
+  },
+  "keywords": [
+    "interactive",
+    "timelinejs",
+    "war",
+    "guardian"
+  ],
+  "author": "Guardian interactive team",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/GuardianInteractive/100-years-of-war/issues"
+  },
+  "homepage": "https://github.com/GuardianInteractive/100-years-of-war",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-connect": "~0.6.0"
+  }
+}
