@@ -106,25 +106,25 @@
     vertical-align:top
 }
 .vco-storyjs {
-    font-family:"Georgia", Times New Roman, Times, serif;
+    font-family:"Guardian Egyptian Text","Georgia", Times New Roman, Times, serif;
 }
 .vco-storyjs .twitter, .vco-storyjs .vcard, .vco-storyjs .messege, .vco-storyjs .credit, .vco-storyjs .caption, .vco-storyjs .zoom-in, .vco-storyjs .zoom-out, .vco-storyjs .back-home, .vco-storyjs .time-interval div, .vco-storyjs .time-interval-major div, .vco-storyjs .nav-container {
-    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important
+    font-family:"Guardian Agate Sans", "Helvetica Neue", Helvetica, Arial, sans-serif !important
 }
 .vco-storyjs h1.date, .vco-storyjs h2.date, .vco-storyjs h3.date, .vco-storyjs h4.date, .vco-storyjs h5.date, .vco-storyjs h6.date {
-    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important
+    font-family:"Guardian Agate Sans","Helvetica Neue", Helvetica, Arial, sans-serif !important
 }
 .vco-storyjs .timenav h1, .vco-storyjs .flag-content h1, .vco-storyjs .era h1, .vco-storyjs .timenav h2, .vco-storyjs .flag-content h2, .vco-storyjs .era h2, .vco-storyjs .timenav h3, .vco-storyjs .flag-content h3, .vco-storyjs .era h3, .vco-storyjs .timenav h4, .vco-storyjs .flag-content h4, .vco-storyjs .era h4, .vco-storyjs .timenav h5, .vco-storyjs .flag-content h5, .vco-storyjs .era h5, .vco-storyjs .timenav h6, .vco-storyjs .flag-content h6, .vco-storyjs .era h6 {
-    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important
+    font-family:"Guardian Agate Sans", "Helvetica Neue", Helvetica, Arial, sans-serif !important
 }
 .vco-storyjs p, .vco-storyjs blockquote, .vco-storyjs blockquote p, .vco-storyjs .twitter blockquote p {
-    font-family:"Georgia", Times New Roman, Times, serif !important
+    font-family:"Guardian Egyptian Text","Georgia", Times New Roman, Times, serif !important
 }
 .vco-storyjs .vco-feature h1, .vco-storyjs .vco-feature h2, .vco-storyjs .vco-feature h3, .vco-storyjs .vco-feature h4, .vco-storyjs .vco-feature h5, .vco-storyjs .vco-feature h6 {
-    font-family:"Georgia", Times New Roman, Times, serif
+    font-family:"Guardian Egyptian Text","Georgia", Times New Roman, Times, serif
 }
 .timeline-tooltip {
-    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif
+    font-family:"Guardian Agate Sans", "Helvetica Neue", Helvetica, Arial, sans-serif
 }
 .vco-storyjs {
     font-size:15px;
@@ -151,10 +151,11 @@
     color:#999
 }
 .vco-storyjs .vco-feature h3, .vco-storyjs .vco-feature h4, .vco-storyjs .vco-feature h5, .vco-storyjs .vco-feature h6 {
-    margin-bottom:15px
+    margin-bottom:15px;
+    color:#c4c4c4;
 }
 .vco-storyjs .vco-feature p {
-    color:#666
+    color:#fff;
 }
 .vco-storyjs .vco-feature blockquote, .vco-storyjs .vco-feature blockquote p {
     color:#000
@@ -590,7 +591,8 @@
 .vco-skinny .vco-slider .slider-item .content .layout-text-media h2, .vco-skinny .vco-slider .slider-item .content .layout-text-media h3 {
     display:block !important;
     width:100% !important;
-    text-align:left !important
+    text-align:left !important;
+    color:#c4c4c4;
 }
 .vco-skinny .vco-slider .slider-item .content .content-container {
     display:block
@@ -848,7 +850,7 @@
     height:100%;
     padding:0;
     margin:0;
-    display:table;
+    display:block !important;
     overflow-y:auto;
     margin-left:-131px;
     text-align:center;
@@ -934,7 +936,8 @@
 .vco-slider .slider-item .content .content-container .media .media-wrapper .media-container .media-frame, .vco-slider .slider-item .content .content-container .media .media-wrapper .media-container .media-image img {
     border:1px solid;
     border-color:#ccc #999 #999 #ccc;
-    background-color:#fff
+    background-color:#fff;
+    max-width:641px;
 }
 .vco-slider .slider-item .content .content-container .media .media-wrapper .media-container .media-frame iframe {
     background-color:#fff
@@ -1244,7 +1247,7 @@
 }
 .vco-slider .slider-item .content .content-container.layout-media .text .container {
     display:block;
-    text-align:center;
+    text-align:left;
     width:100%;
     margin-left:none;
     margin-right:none
@@ -1331,6 +1334,7 @@
     position:relative;
     z-index:10;
     padding-top:15px;
+    background:#222;
     /*-webkit-box-shadow:1px 1px 7px rgba(0, 0, 0, 0.3);
     -moz-box-shadow:1px 1px 7px rgba(0, 0, 0, 0.3);
     box-shadow:1px 1px 7px rgba(0, 0, 0, 0.3)*/
@@ -1663,7 +1667,7 @@
     opacity:1
 }
 .vco-notouch .vco-navigation .timenav .content .marker .flag:hover {
-    background-image:url(timeline.png?v4.4);
+    /*background-image:url(timeline.png?v4.4);*/
     background-repeat:no-repeat;
     background-position:0 -53px;
     width:153px;
@@ -1671,7 +1675,7 @@
 }
 .vco-notouch .vco-navigation .timenav .content .marker .flag-small:hover {
     height:56px;
-    background-image:url(timeline.png?v4.4);
+    /*background-image:url(timeline.png?v4.4);*/
     background-repeat:no-repeat;
     background-position:0 -53px;
     width:153px;
@@ -1684,7 +1688,7 @@
     margin-top:5px
 }
 .vco-notouch .vco-navigation .timenav .content .marker .flag-small.flag-small-last:hover {
-    background-image:url(timeline.png?v4.4);
+    /*background-image:url(timeline.png?v4.4);*/
     background-repeat:no-repeat;
     background-position:0 -109px;
     width:153px;
@@ -1701,7 +1705,7 @@
     clear:both;
     cursor:move;
     width:100%;
-    height:170px;
+    height:190px;
     border-top:1px solid #e3e3e3;
     position:relative
 }
@@ -1807,13 +1811,13 @@
     cursor:move;
     top:20px;
     left:0;
-    height:150px;
+    height:170px;
     width:100%;
-    background-color:#e9e9e9
+    background-color:#a3a3a3;
 }
 .vco-timeline .vco-navigation .timenav-background .timenav-interval-background {
     position:absolute;
-    top:151px;
+    top:171px;
     left:0;
     background:#fff;
     width:100%;
@@ -1843,8 +1847,8 @@
     top:-20px;
     left:50%;
     width:3px;
-    height:170px;
-    background-color:#08c;
+    height:190px;
+    background-color:#FFAD00;
     z-index:1;
     -webkit-box-shadow:1px 1px 7px rgba(0, 0, 0, 0.3);
     -moz-box-shadow:1px 1px 7px rgba(0, 0, 0, 0.3);
@@ -1910,11 +1914,11 @@
 }
 .vco-timeline .vco-navigation .timenav .content .marker.active .line {
     z-index:199;
-    background:#08c;
+    background:#FFAD00;
     width:1px
 }
 .vco-timeline .vco-navigation .timenav .content .marker.active .line .event-line {
-    background:#000;
+    background:#FFAD00;
     filter:alpha(opacity=75);
     -khtml-opacity:.75;
     -moz-opacity:.75;
@@ -1927,7 +1931,7 @@
     height:36px
 }
 .vco-timeline .vco-navigation .timenav .content .marker.active .flag .flag-content h3, .vco-timeline .vco-navigation .timenav .content .marker.active .flag-small .flag-content h3 {
-    color:#08c;
+    color:#FFAD00;
     margin-top:5px
 }
 .vco-timeline .vco-navigation .timenav .content .marker.active .flag .flag-content .thumbnail, .vco-timeline .vco-navigation .timenav .content .marker.active .flag-small .flag-content .thumbnail {
@@ -1940,14 +1944,14 @@
     z-index:200
 }
 .vco-timeline .vco-navigation .timenav .content .marker.active .flag {
-    background-image:url(timeline.png?v4.4);
+    /*background-image:url(timeline.png?v4.4);*/
     background-repeat:no-repeat;
     background-position:0 -53px;
     width:153px;
     height:53px
 }
 .vco-timeline .vco-navigation .timenav .content .marker.active .flag-small {
-    background-image:url(timeline.png?v4.4);
+    /*background-image:url(timeline.png?v4.4);*/
     background-repeat:no-repeat;
     background-position:0 -109px;
     width:153px;
@@ -1985,12 +1989,12 @@
     top:20px;
     left:3px;
     width:1px;
-    height:150px;
-    background-color:#ccc;
-    background-color:rgba(204, 204, 204, 0.5);
-    -webkit-box-shadow:1px 0 0 rgba(255, 255, 255, 0.5);
+    height:170px;
+    background-color:#eee;
+    background-color:rgba(240, 240, 240, 0.5);
+    /*-webkit-box-shadow:1px 0 0 rgba(255, 255, 255, 0.5);
     -moz-box-shadow:1px 0 0 rgba(255, 255, 255, 0.5);
-    box-shadow:1px 0 0 rgba(255, 255, 255, 0.5);
+    box-shadow:1px 0 0 rgba(255, 255, 255, 0.5);*/
     z-index:22
 }
 .vco-timeline .vco-navigation .timenav .content .marker .line .event-line {
@@ -1999,7 +2003,7 @@
     left:0;
     height:1px;
     width:1px;
-    background:#08c;
+    /*background:#888;*/
     filter:alpha(opacity=15);
     -khtml-opacity:.15;
     -moz-opacity:.15;
@@ -2050,7 +2054,8 @@
     filter:alpha(opacity=50);
     -khtml-opacity:.5;
     -moz-opacity:.5;
-    opacity:.5
+    opacity:.5;
+    display:none;
 }
 .vco-timeline .vco-navigation .timenav .content .marker .flag .flag-content .thumbnail img, .vco-timeline .vco-navigation .timenav .content .marker .flag-small .flag-content .thumbnail img {
     width:22px;
@@ -2064,15 +2069,19 @@
 }
 .vco-timeline .vco-navigation .timenav .content .marker .flag {
     height:56px;
-    background-image:url(timeline.png?v4.4);
+    /*background-image:url(timeline.png?v4.4);*/
     background-repeat:no-repeat;
     background-position:0 0;
     width:153px;
     height:53px;
-    margin-top:20px;
+    margin-top:40px;
 }
 .vco-timeline .vco-navigation .timenav .content .marker .flag .flag-content {
-    height:36px
+    height:36px;
+    background:#fff;
+    box-shadow:1px 1px 1px rgba(19, 18, 18, 0.12);
+    border-radius:2px;
+    border: 1px solid rgb(136, 136, 136);
 }
 .vco-timeline .vco-navigation .timenav .content .marker .flag .flag-content h3 {
     margin-top:5px
@@ -2364,7 +2373,7 @@
     background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAMCAMAAACdvocfAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRFzMzM////040VdgAAAAJ0Uk5T/wDltzBKAAAAEklEQVR42mJgYAQCBopJgAADAAbwADHy2qHzAAAAAElFTkSuQmCC);
     background-position:left top;
     background-repeat:no-repeat;
-    padding-top:6px;
+    padding-top:0;
     position:absolute;
     height:3px;
     left:0;

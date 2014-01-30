@@ -5556,8 +5556,10 @@ if(typeof VMM != 'undefined' && typeof VMM.Slider == 'undefined') {
 			//VMM.Lib.css(	layout_both + 		".website", 			"max-width", 	300 );
 			
 			// IMAGES
-			VMM.Lib.css(	layout_text_media + "img", 					"max-height", 	mediasize.text_media.height );
-			VMM.Lib.css(	layout_media + 		"img", 					"max-height", 	mediasize.media.height );
+			// VMM.Lib.css(	layout_text_media + "img", 					"max-height", 	mediasize.text_media.height );
+			// VMM.Lib.css(	layout_media + 		"img", 					"max-height", 	mediasize.media.height );
+			VMM.Lib.css(	layout_text_media + "img", 					"max-height", 	"none" );
+			VMM.Lib.css(	layout_media + 		"img", 					"max-height", 	"none" );
 			
 			// FIX FOR NON-WEBKIT BROWSERS
 			VMM.Lib.css(	layout_text_media + "img", 					"max-width", 	mediasize.text_media.width );
