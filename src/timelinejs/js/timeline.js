@@ -5678,6 +5678,18 @@ if(typeof VMM != 'undefined' && typeof VMM.Slider == 'undefined') {
 			// Set current slide
 			current_slide	= n;
 			_pos			= slides[current_slide].leftpos();
+
+			// HACK. Auto-play videos
+			var videos = document.querySelectorAll('video');
+			for (var i = 0; i < videos.length; i++) {
+				videos[i].pause();
+			}
+
+			var el = slides[current_slide].elem().get()[0];
+			if (el && el.querySelector('video')) {
+				el.querySelector('video').play();
+			}
+			// HACK END.
 			
 			
 			if (current_slide == 0) {is_first = true};
