@@ -219,7 +219,7 @@
     color:#08c
 }
 .vco-storyjs h3 {
-    font-size:28px;
+    font-size:30px;
     line-height:30px
 }
 .vco-storyjs h3 small {
@@ -580,8 +580,10 @@
         display:none
     }
 }
-@media (max-width:655px) {
+@media (max-width:671px) {
     .vco-slider .slider-item{
+        padding-right:20px !important;
+        box-sizing:border-box;
         margin-left:0 !important;
     }
 }
@@ -898,9 +900,9 @@
     text-align: left;
 }
 .vco-slider .slider-item .content .content-container .text .container h2.date {
-    font-size:15px;
-    line-height:15px;
-    font-weight:normal;
+    font-size:18px;
+    line-height:24px;
+    font-weight:bold;
 }
 .vco-slider .slider-item .content .content-container .text .container .slide-tag {
     font-size:11px;
