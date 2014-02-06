@@ -1437,11 +1437,11 @@
     border:1px solid #999
 }
 .vco-storyjs a {
-    color:#08c;
+    color:#FFAD00;
     text-decoration:none
 }
 .vco-storyjs a:hover {
-    color:#005580;
+    color:#FFAD00;
     text-decoration:underline
 }
 .vco-storyjs .vcard {
