@@ -12,3 +12,14 @@ Assets
 ------
 Spreadsheet key: 0AkRR3zKqdlUHdDNRTHpoQ1E1S08waXVpV1RUWVVIb3c
 Timeline JS: https://github.com/NUKnightLab/TimelineJS
+
+
+
+Update data
+-----------
+Data is stored in a google spreadsheet. Run the node task to fetch
+the latest data and save it as a JSONP file in the src folder.
+
+```
+$ nodejs fetchData.js
+```
