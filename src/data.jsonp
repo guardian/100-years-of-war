@@ -41,7 +41,7 @@ storyjs_jsonp_data = {
         "startDate": "1919",
         "endDate": "1919",
         "headline": "Treaty of Versailles",
-        "text": "<p>It was supposed to herald an era of peace. British demobilisation saw the number of soldiers drop sharply from 4 million in 1918 to 370,000 in 1920. In the following years, the British government sought more cuts from the military budget. But the Treaty of Versailles did not bring even a short-lived peace for British forces. That year saw British forces in action round the world, including a large-scale intervention in Russia. The treaty also saw Britain add to its already extensive colonies and these acquisitions led to a series of police actions. Some of these police actions were small-scale but still resulted in high civilian death tolls. Because of the reluctance of the Treasury to sanction military spending, British forces tried to police its colonies where possible through air attacks - a cheap option - rather than the more expensive one of putting boots on the ground.<br><br><a href=\"http://century.theguardian.com/1910-1919/Story/0,,126538,00.html\">Read the Guardian's original report of the signing of the Treaty of Versailles.</a></p> <video id='video' controls='' preload='none' poster='http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/1/9/1389285687289/vlcsnap-2013-12-20-16h54m27s251.png'>\n        <source id='mp4' src='http://cdn.theguardian.tv/interactive/mp4/768/2013/12/20/BulgariaCampConditions_h264i.mp4' type='video/mp4'>\n        <source id='webm' src='http://cdn.theguardian.tv/interactive/WebM/768/2013/12/20/BulgariaCampConditions.webm' type='video/webm'>\n        <source id='ogv' src='http://cdn.theguardian.tv/interactive/oggv/768/2013/12/20/BulgariaCampConditions_h264i.ogv' type='video/ogg'>\n        <p>Your user agent does not support the HTML5 Video element.</p>\n</video>",
+        "text": "<p>It was supposed to herald an era of peace. British demobilisation saw the number of soldiers drop sharply from 4 million in 1918 to 370,000 in 1920. In the following years, the British government sought more cuts from the military budget. But the Treaty of Versailles did not bring even a short-lived peace for British forces. That year saw British forces in action round the world, including a large-scale intervention in Russia. The treaty also saw Britain add to its already extensive colonies and these acquisitions led to a series of police actions. Some of these police actions were small-scale but still resulted in high civilian death tolls. Because of the reluctance of the Treasury to sanction military spending, British forces tried to police its colonies where possible through air attacks - a cheap option - rather than the more expensive one of putting boots on the ground.<br><br><a href=\"http://century.theguardian.com/1910-1919/Story/0,,126538,00.html\">Read the Guardian's original report of the signing of the Treaty of Versailles.</a></p>",
         "tag": "",
         "classname": "",
         "asset": {
@@ -83,11 +83,11 @@ storyjs_jsonp_data = {
         "startDate": "1919",
         "endDate": "1939",
         "headline": "North West Frontier",
-        "text": "Unrest, mainly in Waziristan, saw British and Indian colonial forces regularly engaged in fighting: in one campaign in November 1919, 40,000 bombs rained down on villages over four days. There was some scruples about such tactics - dropping bombs on civilians - but the chief of the air staff Lord Trenchard did not share them. “Unscrupulous savages who will give no quarter and who mutilate the dead,” he said. One airman, Major General Lewis, saw the bombing close up and was unpersuaded about the effectiveness. “About five tons of bombs are being dropped daily on the Mahsuds and a good deal of damage has been done, but I doubt if bombing will ever finish the show.”<p></p><video id='video' controls='' preload='none' poster=''>\n\n        <source id='ogg' src='http://cdn.theguardian.tv/interactive/mp4/1080/2014/02/05/140205India1923_h264-2_lo.ogv' type='video/ogg'>\n\n        <source id='webm' src='http://cdn.theguardian.tv/interactive/2014/02/05/140205India1923_h264_2M_vp8.webm' type='video/webm'>\n\n        <source id='m3u8' src='http://cdn.theguardian.tv/HLS/2014/02/05/140205India1923/140205India1923.m3u8' type='video/m3u8'>\n\n        <source id='mp4' src='http://cdn.theguardian.tv/interactive/2014/02/05/140205India1923_h264_2M_H264.mp4' type='video/mp4'>\n\n</video>\n\n",
+        "text": "There were repeated clashes throughout the interwar years on the borderland between Afghanistan and India, the North-West Frontier.  The British Army and its Indian colonial force were engaged against both the Afghans and tribes in Waziristan.  One of the biggest conflicts came in 1919 when British forces stopped a 50,000-strong Afghanistan force posing a threat to India. British and Indian colonial forces suffered 1,751 killed, and the Afghans an estimated 1,000. There were further outbreaks of fighting, mainly involving Waziristan, between 1919 and 1925;1927; 1930-1; 1933; 1935; and 1936-9. \n<p></p><video id='video' controls='false' preload='none' poster=''>\n\n        <source id='ogg' src='http://cdn.theguardian.tv/interactive/mp4/1080/2014/02/05/140205India1923_h264-2_lo.ogv' type='video/ogg'>\n\n        <source id='webm' src='http://cdn.theguardian.tv/interactive/2014/02/05/140205India1923_h264_2M_vp8.webm' type='video/webm'>\n\n        <source id='m3u8' src='http://cdn.theguardian.tv/HLS/2014/02/05/140205India1923/140205India1923.m3u8' type='video/m3u8'>\n\n        <source id='mp4' src='http://cdn.theguardian.tv/interactive/2014/02/05/140205India1923_h264_2M_H264.mp4' type='video/mp4'>\n\n</video>\n\n",
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/guardian/Pix/pictures/2014/1/29/1391010266516/RAF-Westland-Wapiti-aircr-001.jpg",
+          "media": "",
           "thumbnail": "",
           "credit": "IWM via Getty Images",
           "caption": "RAF Westland Wapiti aircraft fly over the North West Frontier of India"
@@ -101,10 +101,10 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/guardian/Pix/pictures/2014/1/29/1391010266516/RAF-Westland-Wapiti-aircr-001.jpg",
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391699248404/RAF-Airco-DH.9A-in-Somali-001.jpg",
           "thumbnail": "",
-          "credit": "IWM via Getty Images",
-          "caption": "RAF Westland Wapiti aircraft fly over the North West Frontier of India"
+          "credit": "National Archives",
+          "caption": "RAF Airco DH.9A in Somaliland, 1920"
         }
       },
       {
@@ -129,10 +129,10 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/guardian/Pix/pictures/2014/1/29/1391010266516/RAF-Westland-Wapiti-aircr-001.jpg",
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391708567804/Winston-Churchill-in-1920-001.jpg",
           "thumbnail": "",
-          "credit": "",
-          "caption": ""
+          "credit": "Gamma-Keystone via Getty Images",
+          "caption": "Winston Churchill in 1920, Secretary of State for War during the Kurdish Rebellion."
         }
       },
       {
@@ -143,7 +143,7 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/guardian/Pix/pictures/2014/1/29/1391010266516/RAF-Westland-Wapiti-aircr-001.jpg",
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391714657377/The-West-Indies-001.jpg\n\n",
           "thumbnail": "",
           "credit": "",
           "caption": ""
@@ -157,21 +157,21 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/guardian/Pix/pictures/2014/1/29/1391010266516/RAF-Westland-Wapiti-aircr-001.jpg",
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391715106962/A-soldier-fires-a-rifle-f-001.jpg",
           "thumbnail": "",
-          "credit": "",
-          "caption": ""
+          "credit": "Walter Doughty for the Guardian",
+          "caption": "A soldier fires a rifle from behind an armoured truck in Dublin, Ireland, 1922, during the Irish Civil War"
         }
       },
       {
         "startDate": "1927",
         "endDate": "1939",
         "headline": "China",
-        "text": "British forces join an international force to protect Shanghai’s European Quarter. British aircraft from the carrier HMS Eagle launched an attack on pirates in 1934 after a number of Europeans were kidnapped. The pilots discovered the pirates' vessels in a creek, photographed them, and when they came under fire joined in an attack on the flotilla.<p></p><video id='video' controls='' preload='none' poster=''>\n\n        <source id='ogg' src='http://cdn.theguardian.tv/interactive/mp4/1080/2014/02/05/140205China1927_h264_lo.ogv' type='video/ogg'>\n\n        <source id='webm' src='http://cdn.theguardian.tv/interactive/2014/02/05/140205China1927_h264_2M_vp8.webm' type='video/webm'>\n\n        <source id='m3u8' src='http://cdn.theguardian.tv/HLS/2014/02/05/140205China1927/140205China1927.m3u8' type='video/m3u8'>\n\n        <source id='mp4' src='http://cdn.theguardian.tv/interactive/2014/02/05/140205China1927_h264_2M_H264.mp4' type='video/mp4'>\n\n</video>\n",
+        "text": "British forces joined an international coalition to protect Shanghai’s European Quarter at the start of the Chinese civil war in 1927 between the nationalist Kuomintang and the Communists.  The Kuomintang carried out a massacre of Communists in the city in 1927.<p></p><video id='video' controls='false' preload='none' poster=''>\n\n        <source id='ogg' src='http://cdn.theguardian.tv/interactive/mp4/1080/2014/02/05/140205China1927_h264_lo.ogv' type='video/ogg'>\n\n        <source id='webm' src='http://cdn.theguardian.tv/interactive/2014/02/05/140205China1927_h264_2M_vp8.webm' type='video/webm'>\n\n        <source id='m3u8' src='http://cdn.theguardian.tv/HLS/2014/02/05/140205China1927/140205China1927.m3u8' type='video/m3u8'>\n\n        <source id='mp4' src='http://cdn.theguardian.tv/interactive/2014/02/05/140205China1927_h264_2M_H264.mp4' type='video/mp4'>\n\n</video>\n",
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/guardian/Pix/pictures/2014/1/29/1391010266516/RAF-Westland-Wapiti-aircr-001.jpg",
+          "media": "",
           "thumbnail": "",
           "credit": "",
           "caption": ""
@@ -185,10 +185,10 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/guardian/Pix/pictures/2014/1/29/1391010266516/RAF-Westland-Wapiti-aircr-001.jpg",
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391710829608/A-Fairey-Gordon-light-day-001.jpg",
           "thumbnail": "",
-          "credit": "",
-          "caption": ""
+          "credit": "IWM",
+          "caption": "A Fairey Gordon light day bomber of No 47 Squadron, RAF, in flight over the Sudan"
         }
       },
       {
@@ -199,10 +199,10 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/guardian/Pix/pictures/2014/1/29/1391010266516/RAF-Westland-Wapiti-aircr-001.jpg",
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391709494389/RAF-Vickers-Vincent-aircr-001.jpg",
           "thumbnail": "",
-          "credit": "",
-          "caption": ""
+          "credit": "Royal Air Force Museum/Hulton Getty",
+          "caption": "RAF Vickers Vincent aircraft saw action during unrest in Aden, 1928 "
         }
       },
       {
@@ -213,7 +213,7 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/guardian/Pix/pictures/2014/1/29/1391010266516/RAF-Westland-Wapiti-aircr-001.jpg",
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391715646493/Kuwait-1929-001.jpg",
           "thumbnail": "",
           "credit": "",
           "caption": ""
@@ -227,10 +227,10 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/guardian/Pix/pictures/2014/1/29/1391010266516/RAF-Westland-Wapiti-aircr-001.jpg",
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391711458425/A-British-Army-convoy-in--001.jpg",
           "thumbnail": "",
-          "credit": "",
-          "caption": ""
+          "credit": "Hulton/Getty",
+          "caption": "A British Army convoy in Palestine, 1930s."
         }
       },
       {
@@ -251,19 +251,19 @@ storyjs_jsonp_data = {
         "startDate": "1944",
         "endDate": "1946",
         "headline": "Greek civil war",
-        "text": "Anxious to dominate the eastern Mediterranean at the end of WWII, <a href=\"http://en.wikipedia.org/wiki/Percentages_agreement#cite_note-1\">Churchill agreed with Stalin that the Soviets could dominate Hungary and the Balkans if Britain could dominate Greece</a>. Around 26,000 troops were dispatched in October 1944, as German forces retreated. Soon fighting broke out between Royalists and right-wingers, and the Communist-dominated resistance movement, the EAM. British troops fought alongside the anti-Communist forces – their allies against Germany just weeks before - with RAF Wellingtons bombing targets in Athens. After flying to Athens on Christmas Day 1994, to help the Greek general Nikolaos Plastiras broker peace talks, Winston Churchill quipped: “Let's hope General Plaster-Arse doesn't have feet of clay...” The civil war continued until 1949.<p></p><video id='video' controls='' preload='none' poster=''>\n\n        <source id='ogg' src='http://cdn.theguardian.tv/interactive/mp4/1080/2014/02/05/140205Greece1944_h264-2_mid.ogv' type='video/ogg'>\n\n        <source id='webm' src='http://cdn.theguardian.tv/interactive/2014/02/05/140205Greece1944_h264_2M_vp8.webm' type='video/webm'>\n\n        <source id='m3u8' src='http://cdn.theguardian.tv/HLS/2014/02/05/140205Greece1944/140205Greece1944.m3u8' type='video/m3u8'>\n\n        <source id='mp4' src='http://cdn.theguardian.tv/interactive/2014/02/05/140205Greece1944_h264_2M_H264.mp4' type='video/mp4'>\n\n</video>",
+        "text": "Anxious to dominate the eastern Mediterranean at the end of WWII, <a href=\"http://en.wikipedia.org/wiki/Percentages_agreement#cite_note-1\">Churchill agreed with Stalin that the Soviets could dominate Hungary and the Balkans if Britain could dominate Greece</a>. Around 26,000 troops were dispatched in October 1944, as German forces retreated. Soon fighting broke out between Royalists and right-wingers, and the Communist-dominated resistance movement, the EAM. British troops fought alongside the anti-Communist forces – their allies against Germany just weeks before - with RAF Wellingtons bombing targets in Athens. After flying to Athens on Christmas Day 1944, to help the Greek general Nikolaos Plastiras broker peace talks, Winston Churchill quipped: “Let's hope General Plaster-Arse doesn't have feet of clay...” The civil war continued until 1949.<p></p><video id='video' controls='false' preload='none' poster=''>\n\n        <source id='ogg' src='http://cdn.theguardian.tv/interactive/mp4/1080/2014/02/05/140205Greece1944_h264-2_mid.ogv' type='video/ogg'>\n\n        <source id='webm' src='http://cdn.theguardian.tv/interactive/2014/02/05/140205Greece1944_h264_2M_vp8.webm' type='video/webm'>\n\n        <source id='m3u8' src='http://cdn.theguardian.tv/HLS/2014/02/05/140205Greece1944/140205Greece1944.m3u8' type='video/m3u8'>\n\n        <source id='mp4' src='http://cdn.theguardian.tv/interactive/2014/02/05/140205Greece1944_h264_2M_H264.mp4' type='video/mp4'>\n\n</video>",
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/guardian/Pix/pictures/2014/1/29/1391010266516/RAF-Westland-Wapiti-aircr-001.jpg",
+          "media": "",
           "thumbnail": "",
           "credit": "Zach Wise/verite.co",
           "caption": "Enjoying the snow while sheltered at the train station"
         }
       },
       {
-        "startDate": "1940",
-        "endDate": "1942",
+        "startDate": "",
+        "endDate": "",
         "headline": "",
         "text": "",
         "tag": "",
@@ -283,10 +283,10 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/guardian/Pix/pictures/2014/1/29/1391010266516/RAF-Westland-Wapiti-aircr-001.jpg",
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391715989535/Captain-Scott-Bell-of-the-001.jpg\n\n",
           "thumbnail": "",
-          "credit": "",
-          "caption": ""
+          "credit": "IWM",
+          "caption": "Captain Scott-Bell of the Royal Navy speaks with Japanese Admiral Kondo after the landing of Allied occupation forces at Saigon"
         }
       },
       {
@@ -297,10 +297,10 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/guardian/Pix/pictures/2014/1/29/1391010266516/RAF-Westland-Wapiti-aircr-001.jpg",
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391716318917/An-Indian-soldier-covers--001.jpg",
           "thumbnail": "",
-          "credit": "",
-          "caption": ""
+          "credit": "IWM",
+          "caption": "An Indian soldier covers the advance of British Stuart light tanks in Surabaya"
         }
       },
       {
@@ -311,10 +311,10 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/guardian/Pix/pictures/2014/1/29/1391010266516/RAF-Westland-Wapiti-aircr-001.jpg",
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391690403410/A-British-soldier-stands--001.jpg",
           "thumbnail": "",
-          "credit": "",
-          "caption": ""
+          "credit": "AFP",
+          "caption": "A British soldier stands guard at the demarcation line in Jerusalem, 1948"
         }
       },
       {
@@ -325,7 +325,7 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/guardian/Pix/pictures/2014/1/29/1391010266516/RAF-Westland-Wapiti-aircr-001.jpg",
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391703063032/British-war-cemetery-in-A-001.jpg",
           "thumbnail": "",
           "credit": "",
           "caption": ""
@@ -335,11 +335,11 @@ storyjs_jsonp_data = {
         "startDate": "1948",
         "endDate": "1960",
         "headline": "Malaya",
-        "text": "Although the Malayan Emergency lasted 12 years, the British were always confident of eventual victory. “By far the easiest problem I have ever tackled,” said the British commander, when hostilities began. His communist opponents were almost all ethnically Chinese, and faced opposition from most Malays as well as the colonial authorities. It was the first modern counter-insurgency campaign in which the “winning of hearts and minds” was said to be critical to success, and it ended in defeat for the communists. At the outset, however, villages were torched by police and villagers massacred by British troops. According to official figures, 10,700 insurgents were killed, captured or surrendered during the war. Some 519 members of the military and 1,346 police lost their lives, along with 3,283 civilians.<p></p><video id='video' controls='' preload='none' poster=''>\n\n        <source id='ogg' src='http://cdn.theguardian.tv/interactive/mp4/1080/2014/02/05/140105Malaya1949_h264_lo.ogv' type='video/ogg'>\n\n        <source id='webm' src='http://cdn.theguardian.tv/interactive/2014/02/05/140105Malaya1949_h264_2M_vp8.webm' type='video/webm'>\n\n        <source id='m3u8' src='http://cdn.theguardian.tv/HLS/2014/02/05/140105Malaya1949/140105Malaya1949.m3u8' type='video/m3u8'>\n\n        <source id='mp4' src='http://cdn.theguardian.tv/interactive/2014/02/05/140105Malaya1949_h264_2M_H264.mp4' type='video/mp4'>\n\n</video>",
+        "text": "Although the Malayan Emergency lasted 12 years, the British were always confident of eventual victory. “By far the easiest problem I have ever tackled,” said the British commander, when hostilities began. His communist opponents were almost all ethnically Chinese, and faced opposition from most Malays as well as the colonial authorities. It was the first modern counter-insurgency campaign in which the “winning of hearts and minds” was said to be critical to success, and it ended in defeat for the communists. At the outset, however, villages were torched by police and villagers massacred by British troops. According to official figures, 10,700 insurgents were killed, captured or surrendered during the war. Some 519 members of the military and 1,346 police lost their lives, along with 3,283 civilians.<p></p><video id='video' controls='false' preload='none' poster=''>\n\n        <source id='ogg' src='http://cdn.theguardian.tv/interactive/mp4/1080/2014/02/05/140105Malaya1949_h264_lo.ogv' type='video/ogg'>\n\n        <source id='webm' src='http://cdn.theguardian.tv/interactive/2014/02/05/140105Malaya1949_h264_2M_vp8.webm' type='video/webm'>\n\n        <source id='m3u8' src='http://cdn.theguardian.tv/HLS/2014/02/05/140105Malaya1949/140105Malaya1949.m3u8' type='video/m3u8'>\n\n        <source id='mp4' src='http://cdn.theguardian.tv/interactive/2014/02/05/140105Malaya1949_h264_2M_H264.mp4' type='video/mp4'>\n\n</video>",
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/guardian/Pix/pictures/2014/1/29/1391010266516/RAF-Westland-Wapiti-aircr-001.jpg",
+          "media": "",
           "thumbnail": "",
           "credit": "",
           "caption": ""
@@ -353,10 +353,10 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/guardian/Pix/pictures/2014/1/29/1391010266516/RAF-Westland-Wapiti-aircr-001.jpg",
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391692139605/HMS-Amethyst-after-action-001.jpg",
           "thumbnail": "",
-          "credit": "",
-          "caption": ""
+          "credit": "Hulton/ Getty",
+          "caption": "HMS Amethyst, after action on the Yangtze River, 1949"
         }
       },
       {
@@ -367,10 +367,10 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/guardian/Pix/pictures/2014/1/29/1391010266516/RAF-Westland-Wapiti-aircr-001.jpg",
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391692703438/-British-soldiers-of-the--001.jpg",
           "thumbnail": "",
-          "credit": "Greg Solenström",
-          "caption": "Jay Z - \"Hello Brooklyn\""
+          "credit": "Popperfoto/Getty Images",
+          "caption": "British soldiers of the 1st Battalion the Gloucestershire Regiment in Korea, 1951"
         }
       },
       {
@@ -381,10 +381,10 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/guardian/Pix/pictures/2014/1/29/1391010266516/RAF-Westland-Wapiti-aircr-001.jpg",
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391695877951/British-Soldiers-preparin-001.jpg",
           "thumbnail": "",
-          "credit": "Radiohead",
-          "caption": "Lotus Flower - SBTRKT RMX"
+          "credit": "Gamma-Keystone via Getty Images",
+          "caption": "British Soldiers preparing to leave for the Suez Canal, 1951"
         }
       },
       {
@@ -395,10 +395,10 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/guardian/Pix/pictures/2014/1/29/1391010266516/RAF-Westland-Wapiti-aircr-001.jpg",
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391695386685/Egyptians-crowd-around-a--001.jpg\n\n",
           "thumbnail": "",
-          "credit": "",
-          "caption": "Edwin Land on BBC"
+          "credit": "Fox Photos/ Getty",
+          "caption": "Egyptians crowd around a British tank in Port Said during the Suez Crisis, 1956"
         }
       },
       {
@@ -409,10 +409,10 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/guardian/Pix/pictures/2014/1/29/1391010266516/RAF-Westland-Wapiti-aircr-001.jpg",
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391696242427/the-Devon-Regiment-ooking-001.jpg",
           "thumbnail": "",
-          "credit": "",
-          "caption": ""
+          "credit": "Popperfoto/Getty Images",
+          "caption": "Members of the Devon Regiment assisting police in searching homes at Karoibangi, Kenya where they are looking for Mau Mau, 1954"
         }
       },
       {
@@ -423,24 +423,24 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/guardian/Pix/pictures/2014/1/29/1391010266516/RAF-Westland-Wapiti-aircr-001.jpg",
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391717261929/guards-in-front-of-the-go-001.jpg",
           "thumbnail": "",
-          "credit": "",
-          "caption": ""
+          "credit": "Evelyn De Long/ Getty",
+          "caption": "Guards in front of the governor's residence in Georgetown, British Guiana"
         }
       },
       {
         "startDate": "1955",
         "endDate": "1959",
         "headline": "Cyprus",
-        "text": "The British colonial authorities were taken by surprise when insurgents from the Greek nationalist organisation Eoka launched their first attack in April 1955, initially assuming them to be communists. Fighting continued until 1959, and Cyprus gained independence the following year. Some 370 British servicemen died along with more than 40 police officers, and hundreds of Greek and Turkish Cypriot civilians.",
+        "text": "The British colonial authorities were taken by surprise when insurgents from the Greek nationalist organisation Eoka launched their first attack in April 1955, initially assuming them to be communists. Fighting continued until 1959, and Cyprus gained independence the following year. Some 370 British servicemen died along with more than 40 police officers, and hundreds of Greek and Turkish Cypriot civilians.<br><br><a href=\"http://www.theguardian.com/theguardian/2012/may/14/archive-1956-priest-terrorist-cyprus-greece\">Read an original Guardian report on fears that EOKA fighters were disguising themselves as priests</a.>",
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/guardian/Pix/pictures/2014/1/29/1391010266516/RAF-Westland-Wapiti-aircr-001.jpg",
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391696656356/British-soldiers-search-a-001.jpg\n\n",
           "thumbnail": "",
-          "credit": "",
-          "caption": ""
+          "credit": "Getty",
+          "caption": "British soldiers search a Greek orthodox priest in Cyprus, 1955"
         }
       },
       {
@@ -451,10 +451,10 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/guardian/Pix/pictures/2014/1/29/1391010266516/RAF-Westland-Wapiti-aircr-001.jpg",
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391697440408/Said-ibn-Taimur-Sultan-Of-001.jpg",
           "thumbnail": "",
-          "credit": "",
-          "caption": ""
+          "credit": "Gamma-Keystone via Getty Images",
+          "caption": "Said ibn Taimur, Sultan Of Oman And Muscat in 1957"
         }
       },
       {
@@ -465,10 +465,10 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/guardian/Pix/pictures/2014/1/29/1391010266516/RAF-Westland-Wapiti-aircr-001.jpg",
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391699641392/HMS-Centaur-passing-throu-001.jpg",
           "thumbnail": "",
-          "credit": "",
-          "caption": ""
+          "credit": "Popperfoto/Getty Images",
+          "caption": "HMS Centaur passing through the Suez Canal en-route to Kuwait in 1961"
         }
       },
       {
@@ -479,7 +479,7 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/guardian/Pix/pictures/2014/1/29/1391010266516/RAF-Westland-Wapiti-aircr-001.jpg",
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391716885785/Cameroon-001.jpg\n",
           "thumbnail": "",
           "credit": "",
           "caption": ""
@@ -493,10 +493,10 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/guardian/Pix/pictures/2014/1/29/1391010266516/RAF-Westland-Wapiti-aircr-001.jpg",
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391702722098/Brunei-revolt-1962-001.jpg",
           "thumbnail": "",
-          "credit": "",
-          "caption": ""
+          "credit": "Hulton/ Getty Images",
+          "caption": "A British commando officer being shipped back to Singapore after being wounded in the Brunei revolt, 1962"
         }
       },
       {
@@ -507,10 +507,10 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/guardian/Pix/pictures/2014/1/29/1391010266516/RAF-Westland-Wapiti-aircr-001.jpg",
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391707046540/Members-of-the-Royal-Tank-001.jpg",
           "thumbnail": "",
-          "credit": "",
-          "caption": ""
+          "credit": "IWM",
+          "caption": "Members of the Royal Tank Regiment on patrol in Northern Borneo, 1966"
         }
       },
       {
@@ -521,10 +521,10 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/guardian/Pix/pictures/2014/1/29/1391010266516/RAF-Westland-Wapiti-aircr-001.jpg",
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391707779363/Rebels-in-Dhofar-southern-001.jpg",
           "thumbnail": "",
-          "credit": "",
-          "caption": ""
+          "credit": "Gamma-Keystone via Getty Images",
+          "caption": "Rebels in Dhofar, southern Oman, 1973."
         }
       },
       {
@@ -535,10 +535,10 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/guardian/Pix/pictures/2014/1/29/1391010266516/RAF-Westland-Wapiti-aircr-001.jpg",
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391709985481/British-soldiers-confront-001.jpg\n\n",
           "thumbnail": "",
-          "credit": "",
-          "caption": ""
+          "credit": "Express/ Getty",
+          "caption": "British soldiers confront a civilian following a protest march in Crater, Aden, 1967"
         }
       },
       {
@@ -549,10 +549,10 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/guardian/Pix/pictures/2014/1/29/1391010266516/RAF-Westland-Wapiti-aircr-001.jpg",
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391709349986/Police-and-rioters-on-the-001.jpg",
           "thumbnail": "",
-          "credit": "",
-          "caption": ""
+          "credit": "Alain Le Garsmeur/ Hulton/ Getty",
+          "caption": "Police and rioters on the streets of Derry after an Apprentice Boys march in 1975"
         }
       },
       {
@@ -563,10 +563,10 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/guardian/Pix/pictures/2014/1/29/1391010266516/RAF-Westland-Wapiti-aircr-001.jpg",
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391705307436/A-bomb-explodes-on-board--001.jpg",
           "thumbnail": "",
-          "credit": "",
-          "caption": ""
+          "credit": "Martin Cleaver/PA",
+          "caption": "A bomb explodes on board the frigate HMS Antelope during the Falklands War 1982"
         }
       },
       {
@@ -577,10 +577,10 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/guardian/Pix/pictures/2014/1/29/1391010266516/RAF-Westland-Wapiti-aircr-001.jpg",
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391706256753/British-engineers-blow-up-001.jpg",
           "thumbnail": "",
-          "credit": "",
-          "caption": ""
+          "credit": "Patrick Baz/AFP/Getty",
+          "caption": "British engineers blow up a minefield at the start of the Gulf War, 1991"
         }
       },
       {
@@ -591,10 +591,10 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/guardian/Pix/pictures/2014/1/29/1391010266516/RAF-Westland-Wapiti-aircr-001.jpg",
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391711187556/A-British-UN-soldier-in-S-001.jpg\n\n",
           "thumbnail": "",
-          "credit": "",
-          "caption": ""
+          "credit": "Scott Peterson/ Getty",
+          "caption": "A British UN soldier in Sarajevo, 1995"
         }
       },
       {
@@ -605,10 +605,10 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/guardian/Pix/pictures/2014/1/29/1391010266516/RAF-Westland-Wapiti-aircr-001.jpg",
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391712433841/The-4th-Armoured-Brigade--001.jpg\n",
           "thumbnail": "",
-          "credit": "",
-          "caption": ""
+          "credit": "Tim Ockenden/ PA",
+          "caption": "The 4th Armoured Brigade arrive in Urosevac, as part of Nato peacekeeping forces liberating Kosovo"
         }
       },
       {
@@ -619,10 +619,10 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/guardian/Pix/pictures/2014/1/29/1391010266516/RAF-Westland-Wapiti-aircr-001.jpg",
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391712285556/British-army-helicopters--001.jpg\n\n",
           "thumbnail": "",
-          "credit": "",
-          "caption": ""
+          "credit": "Issouf Sanogo/ AFP",
+          "caption": "British Army helicopters land in Freetown in 2000"
         }
       },
       {
@@ -633,10 +633,10 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/guardian/Pix/pictures/2014/1/29/1391010266516/RAF-Westland-Wapiti-aircr-001.jpg",
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391712822498/-A-British-soldier-is-ref-001.jpg",
           "thumbnail": "",
-          "credit": "",
-          "caption": ""
+          "credit": "Dan Chung for the Guardian",
+          "caption": " A British soldier is reflected in a pool of oil near Basra, Iraq in 2003"
         }
       },
       {
@@ -647,10 +647,10 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/guardian/Pix/pictures/2014/1/29/1391010266516/RAF-Westland-Wapiti-aircr-001.jpg",
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391713614435/Tornado-GR4-aircraft-take-001.jpg",
           "thumbnail": "",
-          "credit": "",
-          "caption": ""
+          "credit": "Peter Macdiarmid/ Getty",
+          "caption": "Tornado GR4 aircraft prepare to take off from RAF Marham for a mission to Libya in 2011"
         }
       },
       {
@@ -661,10 +661,10 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/guardian/Pix/pictures/2014/1/29/1391010266516/RAF-Westland-Wapiti-aircr-001.jpg",
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391714406690/The-Black-Watch-in-Helman-001.jpg",
           "thumbnail": "",
-          "credit": "",
-          "caption": ""
+          "credit": "Sean Smith for the Guardian",
+          "caption": "The Black Watch in Helmand, Afghanistan, 2009"
         }
       }
     ],
