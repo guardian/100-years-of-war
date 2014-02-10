@@ -17,9 +17,11 @@ Timeline JS: https://github.com/NUKnightLab/TimelineJS
 
 Update data
 -----------
-Data is stored in a google spreadsheet. Run the node task to fetch
-the latest data and save it as a JSONP file in the src folder.
+Data is stored in a google spreadsheet. Run the grunt task to fetch
+the latest data, save it as a JSONP file in the src folder and upload it
+to the S3 bucket.
 
 ```
-$ nodejs fetchData.js
+$ grunt pushdata 
 ```
+
