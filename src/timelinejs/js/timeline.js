@@ -5971,7 +5971,6 @@ if (typeof VMM.Slider != 'undefined') {
 		};
 		//set left offset
 		this.leftpos = function(p) {
-			
 			if(typeof p != 'undefined') {
 				VMM.Lib.css(element, "left", p);
 			} else {

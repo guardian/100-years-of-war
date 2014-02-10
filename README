@@ -12,3 +12,16 @@ Assets
 ------
 Spreadsheet key: 0AkRR3zKqdlUHdDNRTHpoQ1E1S08waXVpV1RUWVVIb3c
 Timeline JS: https://github.com/NUKnightLab/TimelineJS
+
+
+
+Update data
+-----------
+Data is stored in a google spreadsheet. Run the grunt task to fetch
+the latest data, save it as a JSONP file in the src folder and upload it
+to the S3 bucket.
+
+```
+$ grunt pushdata 
+```
+

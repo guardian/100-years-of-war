@@ -1,0 +1,659 @@
+storyjs_jsonp_data = {
+  "timeline": {
+    "headline": "100 years of war",
+    "type": "default",
+    "text": "",
+    "asset": {
+      "media": "",
+      "credit": "",
+      "caption": ""
+    },
+    "date": [
+      {
+        "startDate": "1914",
+        "endDate": "1918",
+        "headline": "First world war",
+        "text": "Britain declares war on Germany on August 4, 1914. Over the next four years, Britain mobilised nine million soldiers, fighting mainly on the Western Front. The fighting ranges from Mons in 1914 to the Second Battle of Ypres in 1916, from the Somme in 1916 to the Cambrai operations in 1917, and the Somme again in 1918. The British also fought at Gallipoli, in Iraq, in Palestine, Salonika and Italy. The war ended in November 1918. The British War Office listed the number of dead or missing as 908,371, which included colonial soldiers. The Royal Navy dead and missing was put at 32,287.<br><br><a href=\"http://www.theguardian.com/theguardian/1914/aug/05/fromthearchive\">Read the Guardian's original report of Great Britain's declaration of war on Germany.</a><br><br><a href=\"http://century.theguardian.com/1910-1919/Story/0,,99318,00.html'>Read the Guardian's original report of Armistice Day, 1919.</a>\n\n",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/5/1391617237867/The-British-army-on-the-W-001.jpg",
+          "thumbnail": "",
+          "credit": "IWM via Getty Images",
+          "caption": "The British army on the Western Front in 1917"
+        }
+      },
+      {
+        "startDate": "1916",
+        "endDate": "1916",
+        "headline": "Ireland",
+        "text": "British troops put down the Easter Rising. More than 450 civilians, troops and members of the IRA are killed during the fighting or executed afterwards.<br><br><a href=\"http://century.theguardian.com/1910-1919/Story/0,,126457,00.html\">Read the Guardian's original report of the Easter Rising.</a>",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/5/1391619650634/British-soldiers-in-the-G-001.jpg\n\n",
+          "thumbnail": "",
+          "credit": "Getty Images",
+          "caption": "British soldiers in the General Post Office in Dublin during the  1916 Easter Rising"
+        }
+      },
+      {
+        "startDate": "1919",
+        "endDate": "1921",
+        "headline": "Russia",
+        "text": "British navy and soldiers form part of international coalition engaged on the side of the ‘White’ Russians in civil war against the Bolsheviks. The Royal Navy, in a campaign named Operation Red Trek, lost 112 dead along with a cruiser, two destroyers and a submarine in clashes with Bolshevik navy. British troops were deployed in Murmansk, Archangel and Siberia. A British mission advised the Polish army during war with the Bolsheviks.",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391679521345/The-Royal-Naval-Auxilitar-001.jpg",
+          "thumbnail": "",
+          "credit": "Getty",
+          "caption": "The Royal Naval Auxilitary Service during the Allied intervention in Russia at the Murmansk-Archangel Front"
+        }
+      },
+      {
+        "startDate": "1919",
+        "endDate": "1919",
+        "headline": "Afghanistan",
+        "text": "British forces blocked a 50,000-strong Afghanistan force from invading India. An RAF bomber flew from Peshawar over the mountains to bomb Kabul, scaring the Amir’s harem and leading half the capital’s population to be evacuated. British and Indian colonial forces suffered 1,751 killed, and the Afghans an estimated 1,000. ",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391680319777/Members-of-the-Border-Reg-001.jpg\n\n",
+          "thumbnail": "",
+          "credit": "Hulton/ Getty",
+          "caption": "Members of the Border Regiment look out over  the North West Frontier of India"
+        }
+      },
+      {
+        "startDate": "1919",
+        "endDate": "1939",
+        "headline": "North West Frontier",
+        "text": "There were repeated clashes throughout the interwar years on the borderland between Afghanistan and India, the North-West Frontier.  The British Army and its Indian colonial force were engaged against both the Afghans and tribes in Waziristan.  One of the biggest conflicts came in 1919 when British forces stopped a 50,000-strong Afghanistan force posing a threat to India. British and Indian colonial forces suffered 1,751 killed, and the Afghans an estimated 1,000. There were further outbreaks of fighting, mainly involving Waziristan, between 1919 and 1925;1927; 1930-1; 1933; 1935; and 1936-9. \n<p></p><video id='video' controls='false' preload='none' poster=''>\n\n        <source id='ogg' src='http://cdn.theguardian.tv/interactive/mp4/1080/2014/02/05/140205India1923_h264-2_lo.ogv' type='video/ogg'>\n\n        <source id='webm' src='http://cdn.theguardian.tv/interactive/2014/02/05/140205India1923_h264_2M_vp8.webm' type='video/webm'>\n\n        <source id='m3u8' src='http://cdn.theguardian.tv/HLS/2014/02/05/140205India1923/140205India1923.m3u8' type='video/m3u8'>\n\n        <source id='mp4' src='http://cdn.theguardian.tv/interactive/2014/02/05/140205India1923_h264_2M_H264.mp4' type='video/mp4'>\n\n</video>\n\n",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "",
+          "thumbnail": "",
+          "credit": "IWM via Getty Images",
+          "caption": "RAF Westland Wapiti aircraft fly over the North West Frontier of India"
+        }
+      },
+      {
+        "startDate": "1919",
+        "endDate": "1920",
+        "headline": "Somaliland",
+        "text": "Resurgence of Dervish revolt was led by Mohammed bin Abdullah, known as the ‘Mad Mullah’ (he was neither mad nor a mullah). The British dispatched the world’s first aircraft carrier, the Ark Royal, plus six bomber aircraft. They were complemented by a quick-reaction force of 700 men, the Somaliland Camel Corps. British success against the Dervishes was attributed to the air attacks.",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391699248404/RAF-Airco-DH.9A-in-Somali-001.jpg",
+          "thumbnail": "",
+          "credit": "National Archives",
+          "caption": "RAF Airco DH.9A in Somaliland, 1920"
+        }
+      },
+      {
+        "startDate": "1919",
+        "endDate": "1932",
+        "headline": "Iraqi Arabs",
+        "text": "A force of 4,500 British soldiers and 30,000 Indians was stationed in Iraq, taken from the Ottoman Empire after World War One. A British decision to make Iraqi soldiers redundant contributed to an uprising in 1920, a prelude to the US disbandment of the Iraqi army after the 2003 invasion. Aircraft were used to sow terror among the villages of the Marsh Arabs and others involved in uprisings elsewhere. Bombing villages by airplanes was described by one British officer as “unsporting”. ",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391683327244/Soldiers-from-the-East-Su-001.jpg",
+          "thumbnail": "",
+          "credit": "Hulton/ Getty",
+          "caption": "Soldiers from the East Surrey regiment en route for Baghdad, Iraq"
+        }
+      },
+      {
+        "startDate": "1919",
+        "endDate": "1924",
+        "headline": "Iraqi Kurds",
+        "text": "The British reneged on a promise of independent Kurdish homeland in northern Iraq, resulting in unrest that was put down with the help of the RAF using (non-lethal) poison gas against villages. Churchill was not squeamish about this, writing in 1919: “I am strongly in favour of using poisoned gas against uncivilised tribes.” British forces also engaged in fighting against Turkish troops. Hostilities ran from 1919-1924, and again from 1930-1932.",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391708567804/Winston-Churchill-in-1920-001.jpg",
+          "thumbnail": "",
+          "credit": "Gamma-Keystone via Getty Images",
+          "caption": "Winston Churchill in 1920, Secretary of State for War during the Kurdish Rebellion."
+        }
+      },
+      {
+        "startDate": "1919",
+        "endDate": "1920",
+        "headline": "West Indies",
+        "text": "The Royal Navy intervenes with landing parties to help maintain order.",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391714657377/The-West-Indies-001.jpg\n\n",
+          "thumbnail": "",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "1919",
+        "endDate": "1922",
+        "headline": "Ireland",
+        "text": "After the declaration of Irish independence by the Dail, the British army - backed by a paramilitary police force, the “Black and Tans\", made up mainly of former soldiers - fought the IRA. British forces pulled out of the Free State in 1922.",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391715106962/A-soldier-fires-a-rifle-f-001.jpg",
+          "thumbnail": "",
+          "credit": "Walter Doughty for the Guardian",
+          "caption": "A soldier fires a rifle from behind an armoured truck in Dublin, Ireland, 1922, during the Irish Civil War"
+        }
+      },
+      {
+        "startDate": "1927",
+        "endDate": "1939",
+        "headline": "China",
+        "text": "British forces joined an international coalition to protect Shanghai’s European Quarter at the start of the Chinese civil war in 1927 between the nationalist Kuomintang and the Communists.  The Kuomintang carried out a massacre of Communists in the city in 1927.<p></p><video id='video' controls='false' preload='none' poster=''>\n\n        <source id='ogg' src='http://cdn.theguardian.tv/interactive/mp4/1080/2014/02/05/140205China1927_h264_lo.ogv' type='video/ogg'>\n\n        <source id='webm' src='http://cdn.theguardian.tv/interactive/2014/02/05/140205China1927_h264_2M_vp8.webm' type='video/webm'>\n\n        <source id='m3u8' src='http://cdn.theguardian.tv/HLS/2014/02/05/140205China1927/140205China1927.m3u8' type='video/m3u8'>\n\n        <source id='mp4' src='http://cdn.theguardian.tv/interactive/2014/02/05/140205China1927_h264_2M_H264.mp4' type='video/mp4'>\n\n</video>\n",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "",
+          "thumbnail": "",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "1928",
+        "endDate": "1928",
+        "headline": "Sudan",
+        "text": "A great many air sorties are flown against tribes, including an attack on Bahr al-Jabul that left an estimated 200 dead. ",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391710829608/A-Fairey-Gordon-light-day-001.jpg",
+          "thumbnail": "",
+          "credit": "IWM",
+          "caption": "A Fairey Gordon light day bomber of No 47 Squadron, RAF, in flight over the Sudan"
+        }
+      },
+      {
+        "startDate": "1928",
+        "endDate": "1928",
+        "headline": "Aden",
+        "text": "RAF in action after unrest encouraged by Imam of Yemen. Two-thirds of the population of Sana flee. ",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391709494389/RAF-Vickers-Vincent-aircr-001.jpg",
+          "thumbnail": "",
+          "credit": "Royal Air Force Museum/Hulton Getty",
+          "caption": "RAF Vickers Vincent aircraft saw action during unrest in Aden, 1928 "
+        }
+      },
+      {
+        "startDate": "1929",
+        "endDate": "1929",
+        "headline": "Kuwait",
+        "text": "Royal Navy intervenes to help embattled Sheikh of Kuwait.",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391715646493/Kuwait-1929-001.jpg",
+          "thumbnail": "",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "1929",
+        "endDate": "1938",
+        "headline": "Palestine",
+        "text": "Following the defeat of the Ottoman Empire, Palestine and Trans-Jordan are mandated to Britain. The British maintained a garrison of more than 7,000 troops, mainly to keep the peace amid tensions between Palestinan Arabs and Jews. There were British naval landings in 1929. But hostilities began in earnest in 1936 when there was an Arab revolt that continued through to 1939. By 1938, about 20,000 soldiers were stationed in Palestine.",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391711458425/A-British-Army-convoy-in--001.jpg",
+          "thumbnail": "",
+          "credit": "Hulton/Getty",
+          "caption": "A British Army convoy in Palestine, 1930s."
+        }
+      },
+      {
+        "startDate": "1939",
+        "endDate": "1945",
+        "headline": "World War Two",
+        "text": "In September 1939, the British government mobilises armed forces in anticipation of German air raids. After initial setbacks, culminating in evacuation from Dunkirk in 1940, the British began to see a change in fortune, with the Battle of El Alamein in 1942. British forces were engaged all round the world, from the Arctic campaign to the Battle of Atlantic, from Italy and France, from Singapore to the Pacific. At its height, more than 3.5 million served in the army. The British army death toll, including those from the Commonwealth, amounted to 383,000.<br><br><a href=\"http://www.theguardian.com/world/1939/sep/04/germany.secondworldwar\">Read the Guardian's original report of Britain's declaration of war on Germany.</a><a href=\"http://www.theguardian.com/world/1944/jun/07/secondworldwar.fromthearchive\">Read the Guardian's original report of the fighting in northern France following D-day.</a><br><br><a href=\"http://www.theguardian.com/world/1944/jun/09/secondworldwar.fromthearchive\">Read the Guardian's original report of an airborne attack by British parachute troops the day after D-day.</a>",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391686512871/Winston-Churchill-Sir-Mil-001.jpg",
+          "thumbnail": "",
+          "credit": "AFP",
+          "caption": "Winston Churchill, Sir Miles Dempsey, Bernard Montgomery visit Caen on 23 July 1944"
+        }
+      },
+      {
+        "startDate": "1944",
+        "endDate": "1946",
+        "headline": "Greek civil war",
+        "text": "Anxious to dominate the eastern Mediterranean at the end of WWII, <a href=\"http://en.wikipedia.org/wiki/Percentages_agreement#cite_note-1\">Churchill agreed with Stalin that the Soviets could dominate Hungary and the Balkans if Britain could dominate Greece</a>. Around 26,000 troops were dispatched in October 1944, as German forces retreated. Soon fighting broke out between Royalists and right-wingers, and the Communist-dominated resistance movement, the EAM. British troops fought alongside the anti-Communist forces – their allies against Germany just weeks before - with RAF Wellingtons bombing targets in Athens. After flying to Athens on Christmas Day 1944, to help the Greek general Nikolaos Plastiras broker peace talks, Winston Churchill quipped: “Let's hope General Plaster-Arse doesn't have feet of clay...” The civil war continued until 1949.<p></p><video id='video' controls='false' preload='none' poster=''>\n\n        <source id='ogg' src='http://cdn.theguardian.tv/interactive/mp4/1080/2014/02/05/140205Greece1944_h264-2_mid.ogv' type='video/ogg'>\n\n        <source id='webm' src='http://cdn.theguardian.tv/interactive/2014/02/05/140205Greece1944_h264_2M_vp8.webm' type='video/webm'>\n\n        <source id='m3u8' src='http://cdn.theguardian.tv/HLS/2014/02/05/140205Greece1944/140205Greece1944.m3u8' type='video/m3u8'>\n\n        <source id='mp4' src='http://cdn.theguardian.tv/interactive/2014/02/05/140205Greece1944_h264_2M_H264.mp4' type='video/mp4'>\n\n</video>",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "",
+          "thumbnail": "",
+          "credit": "Zach Wise/verite.co",
+          "caption": "Enjoying the snow while sheltered at the train station"
+        }
+      },
+      {
+        "startDate": "",
+        "endDate": "",
+        "headline": "",
+        "text": "",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "http://static.guim.co.uk/sys-images/guardian/Pix/pictures/2014/1/29/1391010266516/RAF-Westland-Wapiti-aircr-001.jpg",
+          "thumbnail": "",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "1945",
+        "endDate": "1946",
+        "headline": "French Indo-China",
+        "text": "The British wished to see the French and Dutch repossess their imperial possessions in the Far East. The French had no ships and few troops to send to Indo-China, so London sent British troops and a division of the Indian Army to occupy the country. As fighting with Viet-Minh forces quickly escalated, Japanese prisoners were rearmed, placed under British command and compelled to join  the conflict. The British held the ring until large numbers of French forces arrived in early 1946.",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391715989535/Captain-Scott-Bell-of-the-001.jpg\n\n",
+          "thumbnail": "",
+          "credit": "IWM",
+          "caption": "Captain Scott-Bell of the Royal Navy speaks with Japanese Admiral Kondo after the landing of Allied occupation forces at Saigon"
+        }
+      },
+      {
+        "startDate": "1945",
+        "endDate": "1946",
+        "headline": "Dutch East Indies",
+        "text": "In their attempts to help the Dutch repossess their Indonesian colony, the British suffered far more casualties than in Indo-China, and inflicted far more casualties upon a local population that was determined to win its freedom and independence. In one battle for control of the port of Surabaya, one and a half divisions of troops backed by aerial and naval bombardment found themselves fighting the city's population. An estimated 15,000 civilians were killed. There were mutinies among British troops who were sickened by the ferocity of their Dutch allies. In February 1946, British and Indian troops threatened to turn on the Dutch if the slaughter of civilians continued. Later that year, the last British troops to leave the country greeted disembarking Dutch conscripts with raised fists and the Indonesia battle cry Merdeka - Freedom!",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391716318917/An-Indian-soldier-covers--001.jpg",
+          "thumbnail": "",
+          "credit": "IWM",
+          "caption": "An Indian soldier covers the advance of British Stuart light tanks in Surabaya"
+        }
+      },
+      {
+        "startDate": "1945",
+        "endDate": "1948",
+        "headline": "Palestine",
+        "text": "Thousands of British troops were stationed in Palestine when the Jewish insurgency began in October 1945. Within two years, two divisions of British troops were engaged in a conflict which was deeply unpopular, both at home and abroad. London decided to pass the problem to the United Nations and announced that the British Mandate would end in May 1948. Some British forces withdrew overland to Egypt, passing elements of the Egyptian army that were travelling in the opposite direction to invade the newly-declared state of Israel.<br><br><a href=\"http://century.theguardian.com/1940-1949/Story/0,,105143,00.html\">Read Alistair Cooke's original report for the Guardian on the Arab states' rejection of a UN plan to partition Palestine.</a> ",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391690403410/A-British-soldier-stands--001.jpg",
+          "thumbnail": "",
+          "credit": "AFP",
+          "caption": "A British soldier stands guard at the demarcation line in Jerusalem, 1948"
+        }
+      },
+      {
+        "startDate": "1948",
+        "endDate": "1951",
+        "headline": "Eritrea",
+        "text": "British troops ousted Italian forces from their east African colony in 1941. After the war, London continued to administer the country under a UN mandate, and British troops spent several years skirmishing with Eritrean  guerillas who favoured unification with Ethiopia.",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391703063032/British-war-cemetery-in-A-001.jpg",
+          "thumbnail": "",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "1948",
+        "endDate": "1960",
+        "headline": "Malaya",
+        "text": "Although the Malayan Emergency lasted 12 years, the British were always confident of eventual victory. “By far the easiest problem I have ever tackled,” said the British commander, when hostilities began. His communist opponents were almost all ethnically Chinese, and faced opposition from most Malays as well as the colonial authorities. It was the first modern counter-insurgency campaign in which the “winning of hearts and minds” was said to be critical to success, and it ended in defeat for the communists. At the outset, however, villages were torched by police and villagers massacred by British troops. According to official figures, 10,700 insurgents were killed, captured or surrendered during the war. Some 519 members of the military and 1,346 police lost their lives, along with 3,283 civilians.<p></p><video id='video' controls='false' preload='none' poster=''>\n\n        <source id='ogg' src='http://cdn.theguardian.tv/interactive/mp4/1080/2014/02/05/140105Malaya1949_h264_lo.ogv' type='video/ogg'>\n\n        <source id='webm' src='http://cdn.theguardian.tv/interactive/2014/02/05/140105Malaya1949_h264_2M_vp8.webm' type='video/webm'>\n\n        <source id='m3u8' src='http://cdn.theguardian.tv/HLS/2014/02/05/140105Malaya1949/140105Malaya1949.m3u8' type='video/m3u8'>\n\n        <source id='mp4' src='http://cdn.theguardian.tv/interactive/2014/02/05/140105Malaya1949_h264_2M_H264.mp4' type='video/mp4'>\n\n</video>",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "",
+          "thumbnail": "",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "1949",
+        "endDate": "1949",
+        "headline": "China",
+        "text": "While steaming up the Yangtze River in April 1949 to evacuate British and Commonwealth citizens from Nanking during the Chinese civil war, HMS Amethyst came under fire from shore batteries of the People's Liberation Army. The ship's commander was among those killed, and the vessel ran aground. It was trapped for three months, and other ships that attempted to come to its rescue also came under fire. Forty six sailors died and dozens were wounded.",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391692139605/HMS-Amethyst-after-action-001.jpg",
+          "thumbnail": "",
+          "credit": "Hulton/ Getty",
+          "caption": "HMS Amethyst, after action on the Yangtze River, 1949"
+        }
+      },
+      {
+        "startDate": "1950",
+        "endDate": "1953",
+        "headline": "Korea",
+        "text": "The Cold War turned hot in June 1950 when North Korean forces mounted a surprise assault across the border. Britain and 13 other countries agreed to reinforce US and South Korean forces, and pushed so far north that China also entered the war. By the time an armistice was signed in July 1953, up to four million people were dead, most of them civilians.",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391692703438/-British-soldiers-of-the--001.jpg",
+          "thumbnail": "",
+          "credit": "Popperfoto/Getty Images",
+          "caption": "British soldiers of the 1st Battalion the Gloucestershire Regiment in Korea, 1951"
+        }
+      },
+      {
+        "startDate": "1951",
+        "endDate": "1954",
+        "headline": "Suez Canal Zone",
+        "text": "Tens of thousands of British troops faced three years of sporadic attacks by the Egyptian army and police after the Egyptian government abrogated a treaty that permitted London to base forces along the Suez canal. Eventually Britain agreed to withdraw its forces; the Egyptian government agreed they could return if the canal was threatened by an outside power.",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391695877951/British-Soldiers-preparin-001.jpg",
+          "thumbnail": "",
+          "credit": "Gamma-Keystone via Getty Images",
+          "caption": "British Soldiers preparing to leave for the Suez Canal, 1951"
+        }
+      },
+      {
+        "startDate": "1956",
+        "endDate": "1956",
+        "headline": "Suez crisis",
+        "text": "When the Egyptians nationalised the Anglo-French Suez Canal Company, London and Paris conspired with Israel to attack – an Israeli invasion providing the justification for British and French intervention. The war was halted on the insistence of the United Nations after it triggered international outrage.<br><br><a href=\"http://www.theguardian.com/media/from-the-archive-blog/2011/may/28/suez-canal-crisis-1956\">Read an original Guardian report on the start of British and French bombing of Egypt</a><br><br><a href=\"http://century.theguardian.com/1950-1959/Story/0,,105509,00.html\">Read an original Guardian piece published after the UN ceasefire.</a>\n\n",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391695386685/Egyptians-crowd-around-a--001.jpg\n\n",
+          "thumbnail": "",
+          "credit": "Fox Photos/ Getty",
+          "caption": "Egyptians crowd around a British tank in Port Said during the Suez Crisis, 1956"
+        }
+      },
+      {
+        "startDate": "1952",
+        "endDate": "1960",
+        "headline": "Kenya",
+        "text": "By far the most bloody and controversial of Britain's war of decolonisation, the Mau Mau insurgency was characterised by savage conduct on both sides. The colonial authorities failed to understand the cause of conflict, with some officials believing the Kikuyu people were suffering a form of mass breakdown. It is now accepted that they were reacting to the expropriation of their land. Thousands of people were detained in a vast network of prison camps, and while the abuses they suffered were officially denied, the massacre of one group of prisoners caused such revulsion in Britain that independence became inevitable. The numbers of casualties are disputed: the British and African security forces suffered around 200 deaths, while estimates of the number of civilians and Mau Mau fighters who died vary from the official count of 12,000 to as high as 100,000. Last year the British government settled a claim that a group of elderly Kenyans brought at the high court in London by expressing its “sincere regret” the use of torture during the insurgency, paying £19.9 million to 5,000 former prisoners.",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391696242427/the-Devon-Regiment-ooking-001.jpg",
+          "thumbnail": "",
+          "credit": "Popperfoto/Getty Images",
+          "caption": "Members of the Devon Regiment assisting police in searching homes at Karoibangi, Kenya where they are looking for Mau Mau, 1954"
+        }
+      },
+      {
+        "startDate": "1953",
+        "endDate": "1954",
+        "headline": "British Guiana",
+        "text": "After the the left-leaning People's Progressive Party won a general election in 1953, Churchill wrote to the foreign office suggesting it was time to ask for US assistance to topple the newly-elected government. “We ought to get American support in doing all that we can to break the Communist teeth in British Guiana.” Five months later British troops were despatched to topple the government. The following year a number of demonstrators were shot dead.",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391717261929/guards-in-front-of-the-go-001.jpg",
+          "thumbnail": "",
+          "credit": "Evelyn De Long/ Getty",
+          "caption": "Guards in front of the governor's residence in Georgetown, British Guiana"
+        }
+      },
+      {
+        "startDate": "1955",
+        "endDate": "1959",
+        "headline": "Cyprus",
+        "text": "The British colonial authorities were taken by surprise when insurgents from the Greek nationalist organisation Eoka launched their first attack in April 1955, initially assuming them to be communists. Fighting continued until 1959, and Cyprus gained independence the following year. Some 370 British servicemen died along with more than 40 police officers, and hundreds of Greek and Turkish Cypriot civilians.<br><br><a href=\"http://www.theguardian.com/theguardian/2012/may/14/archive-1956-priest-terrorist-cyprus-greece\">Read an original Guardian report on fears that EOKA fighters were disguising themselves as priests</a.>",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391696656356/British-soldiers-search-a-001.jpg\n\n",
+          "thumbnail": "",
+          "credit": "Getty",
+          "caption": "British soldiers search a Greek orthodox priest in Cyprus, 1955"
+        }
+      },
+      {
+        "startDate": "1957",
+        "endDate": "1959",
+        "headline": "Muscat and Oman",
+        "text": "When a Saudi-backed insurgency threatened the UK-backed sultan of oil-rich Muscat and Oman, British forces including SAS troops were landed. During just a few months of the campaign against tribal fighters from mountain-top villages, the RAF dropped twice the weight of bombs that the Luftwaffe had dropped on Coventry in November 1940.",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391697440408/Said-ibn-Taimur-Sultan-Of-001.jpg",
+          "thumbnail": "",
+          "credit": "Gamma-Keystone via Getty Images",
+          "caption": "Said ibn Taimur, Sultan Of Oman And Muscat in 1957"
+        }
+      },
+      {
+        "startDate": "1961",
+        "endDate": "1961",
+        "headline": "Kuwait",
+        "text": "When the Iraqis laid claim to newly-independent Kuwait, a British task force of an aircraft carrier, several destroyers and half a brigade of troops was sent to the country. No shots were fired. It was the first major operation after Suez, and helped to develop the military concept of rapid deployment.",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391699641392/HMS-Centaur-passing-throu-001.jpg",
+          "thumbnail": "",
+          "credit": "Popperfoto/Getty Images",
+          "caption": "HMS Centaur passing through the Suez Canal en-route to Kuwait in 1961"
+        }
+      },
+      {
+        "startDate": "1960",
+        "endDate": "1961",
+        "headline": "Cameroon",
+        "text": "In the run up to a referendum in which the people from the north of British Cameroons voted to join Nigeria, while those from the south voted to merge with Cameroun Republic, British troops engaged with rebels from the Chinese-backed Armee de Liberation Kamerounaise, twice crossing the border to attack their camps.",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391716885785/Cameroon-001.jpg\n",
+          "thumbnail": "",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "1962",
+        "endDate": "1962",
+        "headline": "Brunei",
+        "text": "As Britain attempted to divest itself of its colonies on Borneo, a three-way conflict over the future of Brunei – between its sultan, Malaysia and Indonesia – resulted in an uprising by pro-Indonesia militiamen. The British were taken by surprise: one of the army units dispatched to put down the rebellion found that it had no maps of Brunei, and was forced to break into its ammunition stores as the man with the key was on holiday. The insurrection was soon followed by war with Indonesia.",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391702722098/Brunei-revolt-1962-001.jpg",
+          "thumbnail": "",
+          "credit": "Hulton/ Getty Images",
+          "caption": "A British commando officer being shipped back to Singapore after being wounded in the Brunei revolt, 1962"
+        }
+      },
+      {
+        "startDate": "1963",
+        "endDate": "1966",
+        "headline": "Borneo",
+        "text": "The undeclared four-year war that Britain and its Commonwealth allies fought against Indonesia was one of the least-reported conflicts of the last 50 years. It was fought by small companies of men, strung out along the border between Indonesian and Malaysian Borneo. British forces secretly carried out attacks deep inside Indonesia territory. British and Commonwealth losses numbered 114, while the Indonesians suffered at least 600 deaths in combat, and hundreds more as a result of starvation. A change of government in Jakarta brought the war to an end.",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391707046540/Members-of-the-Royal-Tank-001.jpg",
+          "thumbnail": "",
+          "credit": "IWM",
+          "caption": "Members of the Royal Tank Regiment on patrol in Northern Borneo, 1966"
+        }
+      },
+      {
+        "startDate": "1963",
+        "endDate": "1976",
+        "headline": "Oman",
+        "text": "Said bin Taimur, the reactionary and repressive ruler of Oman who kept slaves and banned his people from wearing sunglasses or listening to the radio, had faced repeated rebellions in the Dhofar region of the south of the country. He could rely on British support to suppress them. By the late 60s, the sporadic attacks had developed into a well-organised insurgency, with both Russian and Chinese support. Determined to protect the narrow Straits of Hormuz, through which a giant oil tanker passed every ten minutes, the British placed the Sultan's armed forces under British command and drafted in young British officers. One of them was a young Ranulph Fiennes, who later wrote: “The people were oppressed and poverty stricken. The Sultan had no friends but the British. Everywhere [I] saw poverty and dirt; disease and squalor. The people jostled past and spat and stared from dark proud eyes, with hate I thought. I noticed other officers in the busy market...all carried revolvers.” Later SAS troops were dispatched, and the Shah of Iran also sent forces. British-led counter-insurgency operations lasted more than a decade, and for most of that time were conducted in complete secrecy. Just 24 British soldiers were killed, alongside around 900 Omanis and Iranian. There are believed to have been several thousand insurgent and civilian deaths. The campaign is regarded as a model of its kind and is still taught at the British military staff college.",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391707779363/Rebels-in-Dhofar-southern-001.jpg",
+          "thumbnail": "",
+          "credit": "Gamma-Keystone via Getty Images",
+          "caption": "Rebels in Dhofar, southern Oman, 1973."
+        }
+      },
+      {
+        "startDate": "1963",
+        "endDate": "1967",
+        "headline": "Aden",
+        "text": "The insurgency against British rule in the south Arabian colony of Aden began in December 1963, when a hand-grenade was hurled at a group of British diplomates at the airport. Over the next three years the British struggled to suppress the mounting violence. Two insurgent groups, the Marxist National Liberation Front and the Arab nationalist Front for the Liberation of Occupied South Yemen, fought both the British and each other. In 1964 Britain found itself facing a second insurrection in the Radfan mountains near the border with Yemen. By 1967, the British were retreating behind a steadily-shrinking perimeter, eventually controlling just the harbour and the airport. One reporter described how the grounds of his hotel became a battlefield. “Gun battles raged furiously with thousands of rounds of ammunition whining and pinging around every building as NLF gunmen poured concentrated fire into every British position on a front of 400 yards.” When the British departed at the end of the year they left behind 125 dead, including several British civilians shot at their homes or offices. Dozens of soldiers and police loyal to the British also died, along with an estimated 1,900 civilians and insurgents.<a href=\"http://www.theguardian.com/theguardian/2011/apr/04/bloody-uprising-aden-emergency-1967\">Read an original Guardian report from 1967 of the deteriorating security situation in Aden.</a>",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391709985481/British-soldiers-confront-001.jpg\n\n",
+          "thumbnail": "",
+          "credit": "Express/ Getty",
+          "caption": "British soldiers confront a civilian following a protest march in Crater, Aden, 1967"
+        }
+      },
+      {
+        "startDate": "1969",
+        "endDate": "1998",
+        "headline": "Northern Ireland",
+        "text": "Operation Banner, as the British military calls its campaign in Northern Ireland, was officially declared to be at an end in 2007, although the conflict subsided dramatically with the signing of the 1998 Good Friday Agreement. The campaign had lasted 38 years: the longest uninterrupted operation ever conducted by UK forces. More than 500 soldiers died, along with 509 police and members of the security forces, 562 paramilitaries and 2,074 civilians, most of them Catholic.<br><br>Read original Guardian dispatches by <a href=\"http://www.theguardian.com/uk/1972/feb/01/bloodysunday.northernireland\">Simon Hoggart</a> and <a href=\"http://century.theguardian.com/1970-1979/Story/0,,106915,00.html\">Simon Winchester</a> from Derry in the aftermath of Bloody Sunday.<br><br>Read the Guardian's original report of the British government's decision to deploy the SAS to County Armagh in 1976.</a>",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391709349986/Police-and-rioters-on-the-001.jpg",
+          "thumbnail": "",
+          "credit": "Alain Le Garsmeur/ Hulton/ Getty",
+          "caption": "Police and rioters on the streets of Derry after an Apprentice Boys march in 1975"
+        }
+      },
+      {
+        "startDate": "1982",
+        "endDate": "1982",
+        "headline": "Falklands",
+        "text": "The ten-week war between Britain and Argentina over control of the long-disputed Falkland Islands and South Georgia resulted in the deaths of 255 British servicemen, 649 Argentinians, and three civilians. More than 2,400 were wounded. Mary Watson spent the war worrying that her only son Tony, a sailor on HMS Glamorgan, might never return home. When he did, she was there to greet him off the ship. \"It was good to hold him,\" she said later. \"It was a sad occasion as well. As we were crying with joy, others would be crying with sorrow, because some of the boys hadn't come back. The whole experience of the Falkland War changed my life - I'm frightened of what's around the corner.\"<br><br><a href=\"http://www.theguardian.com/uk/1982/apr/03/falklands.past\">Read the Guardian's original report of the political recriminations in Britain that followed Argentina's invasion of the Falkland Islands.</a><br><br>Read Gareth Parry's <a href=\"http://www.theguardian.com/theguardian/2012/may/25/archive-1982-falklands-hms-antelope\">original first-hand report</a> for the Guardian of the task force landing at San Carlos Bay and <a href=\"http://www.theguardian.com/uk/2012/jul/03/falklands-conflict-british-forces-archive-1982\">his reflections on reporting the conflict alongside British forces.<br><br>Read the Guardian's <a href=\"http://www.theguardian.com/theguardian/2012/jun/15/falklands-war-ceasefire-troops-surrender-1982\">original report of the Argentinian surrender</a> and <a href=\"http://www.theguardian.com/politics/1982/jun/16/past.falklands\">leader article</a> reflecting on the end of the war.\n",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391705307436/A-bomb-explodes-on-board--001.jpg",
+          "thumbnail": "",
+          "credit": "Martin Cleaver/PA",
+          "caption": "A bomb explodes on board the frigate HMS Antelope during the Falklands War 1982"
+        }
+      },
+      {
+        "startDate": "1990",
+        "endDate": "1991",
+        "headline": "Gulf War",
+        "text": "More than 50,000 British troops, 6,000 RAF personnel, an aircraft acarrier and several destroyers were deployed to the Gulf after the Iraqi invasion of Kuwait in August 1990, to serve alongside forces from 11 other nations. UK special forces, meanwhile, began operating inside Kuwait and Iraq's Western Desert shortly after the invasion. Forty seven British servicemen were among the 400-plus coalition personnel who lost their lives, along with thousands of Iraqis. Nine British soldiers were killed in a “friendly fire” incident when their armoured convoy was attacked by a US aircraft. One, Conrad Cole, was just 17.<a href=\"http://century.theguardian.com/1990-1999/Story/0,,112384,00.html\">Read the Guardian's original report of international reaction to the Iraqi invasion of Kuwait.</a>",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391706256753/British-engineers-blow-up-001.jpg",
+          "thumbnail": "",
+          "credit": "Patrick Baz/AFP/Getty",
+          "caption": "British engineers blow up a minefield at the start of the Gulf War, 1991"
+        }
+      },
+      {
+        "startDate": "1992",
+        "endDate": "1995",
+        "headline": "Bosnia",
+        "text": "British forces joined the UN peacekeeping mission in 1992 when war broke out between the Bosnians - who declared independence after the break-up of Yugoslavia – and Bosnian Serbs and Croats. Although the conflict largely ended in 1995, British troops weren't fully withdrawn until 2007; 59 died in total.<br><br><a href=\"http://century.theguardian.com/1990-1999/Story/0,,112658,00.html\">Read Maggie O'Kane's original account for the Guardian of her escape from a besieged Sarajevo.</a>",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391711187556/A-British-UN-soldier-in-S-001.jpg\n\n",
+          "thumbnail": "",
+          "credit": "Scott Peterson/ Getty",
+          "caption": "A British UN soldier in Sarajevo, 1995"
+        }
+      },
+      {
+        "startDate": "1999",
+        "endDate": "1999",
+        "headline": "Kosovo",
+        "text": "Amid the continuing break-up of the former Yugoslavia and the murder and mass deportation of Albanians in Kosovo by Serb forces, the UK joined Nato's 78-day air campaign against Serbia and then contributed to the peacekeeping force that occupied the country.<a href=\"http://century.theguardian.com/1990-1999/Story/0,,112761,00.html\">Read an original Guardian analysis of the military situation in Kosovo, published the day after Nato airstrikes began.</a>",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391712433841/The-4th-Armoured-Brigade--001.jpg\n",
+          "thumbnail": "",
+          "credit": "Tim Ockenden/ PA",
+          "caption": "The 4th Armoured Brigade arrive in Urosevac, as part of Nato peacekeeping forces liberating Kosovo"
+        }
+      },
+      {
+        "startDate": "2000",
+        "endDate": "2000",
+        "headline": "Sierra Leone",
+        "text": "A peace accord was signed in 1999 following almost a decade of civil war, but a year later Revolutionary United Front rebels renewed fighting and advanced towards Freetown. In May 2000 British troops were sent to support the Sierra Leone Army against the RUF. One paratrooper was killed during Operation Barras, a mission to rescue soldiers held hostage by the West Side Boys militia. A ceasefire was called in November 2000 and peace declared in January 2002. A small number of British troops remain in the country to train Sierra Leone's forces.",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391712285556/British-army-helicopters--001.jpg\n\n",
+          "thumbnail": "",
+          "credit": "Issouf Sanogo/ AFP",
+          "caption": "British Army helicopters land in Freetown in 2000"
+        }
+      },
+      {
+        "startDate": "2003",
+        "endDate": "2008",
+        "headline": "Iraq",
+        "text": "The decision to join the US-led invasion of Iraq in 2003 has been condemned by some as Britain's biggest foreign policy disaster since Suez. During the six years that the British were present in the south east of the country, some 179 British servicemen and women died.The civilian death toll in Basra as a result of the conflict is estimated at between 3,300 and 3,760.",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391712822498/-A-British-soldier-is-ref-001.jpg",
+          "thumbnail": "",
+          "credit": "Dan Chung for the Guardian",
+          "caption": " A British soldier is reflected in a pool of oil near Basra, Iraq in 2003"
+        }
+      },
+      {
+        "startDate": "2011",
+        "endDate": "2011",
+        "headline": "Libya",
+        "text": "Britain was involved in international operations against Muammar Gaddafi's forces, with the RAF and Navy taking part in Nato strikes. Special forces also provided clandestine on-the-ground training and support to opposition rebels. Gaddafi was captured and killed on 20 October 2011, and Nato forces withdrew at the end of that month.",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391713614435/Tornado-GR4-aircraft-take-001.jpg",
+          "thumbnail": "",
+          "credit": "Peter Macdiarmid/ Getty",
+          "caption": "Tornado GR4 aircraft prepare to take off from RAF Marham for a mission to Libya in 2011"
+        }
+      },
+      {
+        "startDate": "2001",
+        "endDate": "2014",
+        "headline": "Afghanistan",
+        "text": "Thirteen years of war began with the UK assisting military operations to topple the Taliban regime that had given al-Qaida the space to plot the attacks of 9/11, then contributing to peace-keeping operations around Kabul. In 2006, the Ministry of Defence announced it was sending 3,300 personnel into Helmand province in the south of the country, and 2,500 more were dispatched the following year. By the end of last year, 447 British soldiers and civilians had been killed and 2,171 wounded in action. Civilian deaths are running at more than 2,000 each year across Afghanistan, and parts of Helmand remain the most contested areas of the country.",
+        "tag": "",
+        "classname": "",
+        "asset": {
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391714406690/The-Black-Watch-in-Helman-001.jpg",
+          "thumbnail": "",
+          "credit": "Sean Smith for the Guardian",
+          "caption": "The Black Watch in Helmand, Afghanistan, 2009"
+        }
+      }
+    ],
+    "era": []
+  }
+}
