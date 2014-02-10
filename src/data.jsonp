@@ -17,7 +17,7 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/5/1391619650634/British-soldiers-in-the-G-001.jpg",
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/5/1391617237867/The-British-army-on-the-W-001.jpg",
           "thumbnail": "",
           "credit": "IWM via Getty Images",
           "caption": "The British army on the Western Front in 1917"
@@ -35,20 +35,6 @@ storyjs_jsonp_data = {
           "thumbnail": "",
           "credit": "Getty Images",
           "caption": "British soldiers in the General Post Office in Dublin during the  1916 Easter Rising"
-        }
-      },
-      {
-        "startDate": "1919",
-        "endDate": "1919",
-        "headline": "Treaty of Versailles",
-        "text": "<p>It was supposed to herald an era of peace. British demobilisation saw the number of soldiers drop sharply from 4 million in 1918 to 370,000 in 1920. In the following years, the British government sought more cuts from the military budget. But the Treaty of Versailles did not bring even a short-lived peace for British forces. That year saw British forces in action round the world, including a large-scale intervention in Russia. The treaty also saw Britain add to its already extensive colonies and these acquisitions led to a series of police actions. Some of these police actions were small-scale but still resulted in high civilian death tolls. Because of the reluctance of the Treasury to sanction military spending, British forces tried to police its colonies where possible through air attacks - a cheap option - rather than the more expensive one of putting boots on the ground.<br><br><a href=\"http://century.theguardian.com/1910-1919/Story/0,,126538,00.html\">Read the Guardian's original report of the signing of the Treaty of Versailles.</a></p>",
-        "tag": "",
-        "classname": "",
-        "asset": {
-          "media": "",
-          "thumbnail": "",
-          "credit": "",
-          "caption": ""
         }
       },
       {
