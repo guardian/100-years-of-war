@@ -331,7 +331,7 @@ if (typeof VMM == 'undefined') {
 function trace( msg ) {
 	if (VMM.debug) {
 		if (window.console) {
-			console.log(msg);
+			
 		} else if ( typeof( jsTrace ) != 'undefined' ) {
 			jsTrace.send( msg );
 		} else {
@@ -5971,7 +5971,7 @@ if (typeof VMM.Slider != 'undefined') {
 		};
 		//set left offset
 		this.leftpos = function(p) {
-			console.log(p);
+			
 			if(typeof p != 'undefined') {
 				VMM.Lib.css(element, "left", p);
 			} else {
