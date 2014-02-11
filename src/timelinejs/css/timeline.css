@@ -2592,3 +2592,11 @@
 }
 @media only screen and (max-width:480px) {
 }
+
+.vco-slider .slider-item .content .content-container .text .container .videocredit{
+    text-align:center !important;
+    font-size:11px !important;
+    margin-top:10px !important;
+    font-family:"Guardian Agate Sans", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    color:#666 !important;
+}
