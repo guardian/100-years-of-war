@@ -13,11 +13,11 @@ storyjs_jsonp_data = {
         "startDate": "1914",
         "endDate": "1918",
         "headline": "First world war",
-        "text": "Britain declares war on Germany on August 4, 1914. Over the next four years, Britain mobilised nine million soldiers, fighting mainly on the Western Front. The fighting ranges from Mons in 1914 to the Second Battle of Ypres in 1916, from the Somme in 1916 to the Cambrai operations in 1917, and the Somme again in 1918. The British also fought at Gallipoli, in Iraq, in Palestine, Salonika and Italy. The war ended in November 1918. The British War Office listed the number of dead or missing as 908,371, which included colonial soldiers. The Royal Navy dead and missing was put at 32,287.<br><br><a href=\"http://www.theguardian.com/theguardian/1914/aug/05/fromthearchive\">Read the Guardian's original report of Great Britain's declaration of war on Germany.</a><br><br><a href=\"http://century.theguardian.com/1910-1919/Story/0,,99318,00.html'>Read the Guardian's original report of Armistice Day, 1919.</a>\n\n",
+        "text": "Britain declares war on Germany on August 4, 1914. Over the next four years, Britain mobilised nine million soldiers, fighting mainly on the Western Front. The fighting ranges from Mons in 1914 to the Second Battle of Ypres in 1916, from the Somme in 1916 to the Cambrai operations in 1917, and the Somme again in 1918. The British also fought at Gallipoli, in Iraq, in Palestine, Salonika and Italy. The war ended in November 1918. The British War Office listed the number of its dead or missing as 908,371, which included colonial soldiers. The Royal Navy dead and missing was put at 32,287.<br><br><a href=\"http://www.theguardian.com/theguardian/1914/aug/05/fromthearchive\">Read the Guardian's original report of Great Britain's declaration of war on Germany.</a><br><br><a href=\"http://century.theguardian.com/1910-1919/Story/0,,99318,00.html'>Read the Guardian's original report of Armistice Day, 1919.</a>\n\n",
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/5/1391617237867/The-British-army-on-the-W-001.jpg",
+          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/10/1392047126312/British-troops-on-the-Wes-002.jpg",
           "thumbnail": "",
           "credit": "IWM via Getty Images",
           "caption": "The British army on the Western Front in 1917"
@@ -26,7 +26,7 @@ storyjs_jsonp_data = {
       {
         "startDate": "1916",
         "endDate": "1916",
-        "headline": "Ireland",
+        "headline": "Easter rising",
         "text": "British troops put down the Easter Rising. More than 450 civilians, troops and members of the IRA are killed during the fighting or executed afterwards.<br><br><a href=\"http://century.theguardian.com/1910-1919/Story/0,,126457,00.html\">Read the Guardian's original report of the Easter Rising.</a>",
         "tag": "",
         "classname": "",
@@ -69,21 +69,21 @@ storyjs_jsonp_data = {
         "startDate": "1919",
         "endDate": "1939",
         "headline": "North West Frontier",
-        "text": "There were repeated clashes throughout the interwar years on the borderland between Afghanistan and India, the North-West Frontier.  The British Army and its Indian colonial force were engaged against both the Afghans and tribes in Waziristan.  One of the biggest conflicts came in 1919 when British forces stopped a 50,000-strong Afghanistan force posing a threat to India. British and Indian colonial forces suffered 1,751 killed, and the Afghans an estimated 1,000. There were further outbreaks of fighting, mainly involving Waziristan, between 1919 and 1925;1927; 1930-1; 1933; 1935; and 1936-9. \n<p></p><video id='video' controls='false' preload='none' poster=''>\n\n        <source id='ogg' src='http://cdn.theguardian.tv/interactive/mp4/1080/2014/02/05/140205India1923_h264-2_lo.ogv' type='video/ogg'>\n\n        <source id='webm' src='http://cdn.theguardian.tv/interactive/2014/02/05/140205India1923_h264_2M_vp8.webm' type='video/webm'>\n\n        <source id='m3u8' src='http://cdn.theguardian.tv/HLS/2014/02/05/140205India1923/140205India1923.m3u8' type='video/m3u8'>\n\n        <source id='mp4' src='http://cdn.theguardian.tv/interactive/2014/02/05/140205India1923_h264_2M_H264.mp4' type='video/mp4'>\n\n</video>\n\n",
+        "text": "There were repeated clashes throughout the interwar years on the borderland between Afghanistan and India, the North-West Frontier.  The British Army and its Indian colonial force were engaged against both the Afghans and tribes in Waziristan.  One of the biggest conflicts came in 1919 when British forces stopped a 50,000-strong Afghanistan force posing a threat to India. British and Indian colonial forces suffered 1,751 killed, and the Afghans an estimated 1,000. There were further outbreaks of fighting, mainly involving Waziristan, between 1919 and 1925;1927; 1930-1; 1933; 1935; and 1936-9. \n<p></p><video id='video'   preload='none' poster=''>\n\n        <source id='ogg' src='http://cdn.theguardian.tv/interactive/mp4/1080/2014/02/05/140205India1923_h264-2_lo.ogv' type='video/ogg'>\n\n        <source id='webm' src='http://cdn.theguardian.tv/interactive/2014/02/05/140205India1923_h264_2M_vp8.webm' type='video/webm'>\n\n        <source id='m3u8' src='http://cdn.theguardian.tv/HLS/2014/02/05/140205India1923/140205India1923.m3u8' type='video/m3u8'>\n\n        <source id='mp4' src='http://cdn.theguardian.tv/interactive/2014/02/05/140205India1923_h264_2M_H264.mp4' type='video/mp4'>\n\n</video><p class='videocredit'>Video: ITN Source</p>\n",
         "tag": "",
         "classname": "",
         "asset": {
           "media": "",
           "thumbnail": "",
-          "credit": "IWM via Getty Images",
-          "caption": "RAF Westland Wapiti aircraft fly over the North West Frontier of India"
+          "credit": "",
+          "caption": ""
         }
       },
       {
         "startDate": "1919",
         "endDate": "1920",
         "headline": "Somaliland",
-        "text": "Resurgence of Dervish revolt was led by Mohammed bin Abdullah, known as the ‘Mad Mullah’ (he was neither mad nor a mullah). The British dispatched the world’s first aircraft carrier, the Ark Royal, plus six bomber aircraft. They were complemented by a quick-reaction force of 700 men, the Somaliland Camel Corps. British success against the Dervishes was attributed to the air attacks.",
+        "text": "The resurgence of the Dervish revolt was led by Mohammed bin Abdullah, known as the ‘Mad Mullah’ (he was neither mad nor a mullah). The British dispatched the world’s first aircraft carrier, the Ark Royal, plus six bomber aircraft. They were complemented by a quick-reaction force of 700 men, the Somaliland Camel Corps. British success against the Dervishes was attributed to the air attacks. The picture shows wounded men ('cot cases') being evacuated by plane.",
         "tag": "",
         "classname": "",
         "asset": {
@@ -96,7 +96,7 @@ storyjs_jsonp_data = {
       {
         "startDate": "1919",
         "endDate": "1932",
-        "headline": "Iraqi Arabs",
+        "headline": "Southern Iraq",
         "text": "A force of 4,500 British soldiers and 30,000 Indians was stationed in Iraq, taken from the Ottoman Empire after World War One. A British decision to make Iraqi soldiers redundant contributed to an uprising in 1920, a prelude to the US disbandment of the Iraqi army after the 2003 invasion. Aircraft were used to sow terror among the villages of the Marsh Arabs and others involved in uprisings elsewhere. Bombing villages by airplanes was described by one British officer as “unsporting”. ",
         "tag": "",
         "classname": "",
@@ -110,7 +110,7 @@ storyjs_jsonp_data = {
       {
         "startDate": "1919",
         "endDate": "1924",
-        "headline": "Iraqi Kurds",
+        "headline": "Northern Iraq",
         "text": "The British reneged on a promise of independent Kurdish homeland in northern Iraq, resulting in unrest that was put down with the help of the RAF using (non-lethal) poison gas against villages. Churchill was not squeamish about this, writing in 1919: “I am strongly in favour of using poisoned gas against uncivilised tribes.” British forces also engaged in fighting against Turkish troops. Hostilities ran from 1919-1924, and again from 1930-1932.",
         "tag": "",
         "classname": "",
@@ -123,22 +123,8 @@ storyjs_jsonp_data = {
       },
       {
         "startDate": "1919",
-        "endDate": "1920",
-        "headline": "West Indies",
-        "text": "The Royal Navy intervenes with landing parties to help maintain order.",
-        "tag": "",
-        "classname": "",
-        "asset": {
-          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391714657377/The-West-Indies-001.jpg\n\n",
-          "thumbnail": "",
-          "credit": "",
-          "caption": ""
-        }
-      },
-      {
-        "startDate": "1919",
         "endDate": "1922",
-        "headline": "Ireland",
+        "headline": "Irish civil war",
         "text": "After the declaration of Irish independence by the Dail, the British army - backed by a paramilitary police force, the “Black and Tans\", made up mainly of former soldiers - fought the IRA. British forces pulled out of the Free State in 1922.",
         "tag": "",
         "classname": "",
@@ -153,7 +139,7 @@ storyjs_jsonp_data = {
         "startDate": "1927",
         "endDate": "1939",
         "headline": "China",
-        "text": "British forces joined an international coalition to protect Shanghai’s European Quarter at the start of the Chinese civil war in 1927 between the nationalist Kuomintang and the Communists.  The Kuomintang carried out a massacre of Communists in the city in 1927.<p></p><video id='video' controls='false' preload='none' poster=''>\n\n        <source id='ogg' src='http://cdn.theguardian.tv/interactive/mp4/1080/2014/02/05/140205China1927_h264_lo.ogv' type='video/ogg'>\n\n        <source id='webm' src='http://cdn.theguardian.tv/interactive/2014/02/05/140205China1927_h264_2M_vp8.webm' type='video/webm'>\n\n        <source id='m3u8' src='http://cdn.theguardian.tv/HLS/2014/02/05/140205China1927/140205China1927.m3u8' type='video/m3u8'>\n\n        <source id='mp4' src='http://cdn.theguardian.tv/interactive/2014/02/05/140205China1927_h264_2M_H264.mp4' type='video/mp4'>\n\n</video>\n",
+        "text": "British forces joined an international coalition to protect Shanghai’s European Quarter at the start of the Chinese civil war in 1927 between the nationalist Kuomintang and the Communists.  The Kuomintang carried out a massacre of Communists in the city in 1927.<p></p><video id='video'   preload='none' poster=''>\n\n        <source id='ogg' src='http://cdn.theguardian.tv/interactive/mp4/1080/2014/02/05/140205China1927_h264_lo.ogv' type='video/ogg'>\n\n        <source id='webm' src='http://cdn.theguardian.tv/interactive/2014/02/05/140205China1927_h264_2M_vp8.webm' type='video/webm'>\n\n        <source id='m3u8' src='http://cdn.theguardian.tv/HLS/2014/02/05/140205China1927/140205China1927.m3u8' type='video/m3u8'>\n\n        <source id='mp4' src='http://cdn.theguardian.tv/interactive/2014/02/05/140205China1927_h264_2M_H264.mp4' type='video/mp4'>\n\n</video><p class='videocredit'>Video: ITN Source</p>\n",
         "tag": "",
         "classname": "",
         "asset": {
@@ -222,7 +208,7 @@ storyjs_jsonp_data = {
       {
         "startDate": "1939",
         "endDate": "1945",
-        "headline": "World War Two",
+        "headline": "Second world war",
         "text": "In September 1939, the British government mobilises armed forces in anticipation of German air raids. After initial setbacks, culminating in evacuation from Dunkirk in 1940, the British began to see a change in fortune, with the Battle of El Alamein in 1942. British forces were engaged all round the world, from the Arctic campaign to the Battle of Atlantic, from Italy and France, from Singapore to the Pacific. At its height, more than 3.5 million served in the army. The British army death toll, including those from the Commonwealth, amounted to 383,000.<br><br><a href=\"http://www.theguardian.com/world/1939/sep/04/germany.secondworldwar\">Read the Guardian's original report of Britain's declaration of war on Germany.</a><a href=\"http://www.theguardian.com/world/1944/jun/07/secondworldwar.fromthearchive\">Read the Guardian's original report of the fighting in northern France following D-day.</a><br><br><a href=\"http://www.theguardian.com/world/1944/jun/09/secondworldwar.fromthearchive\">Read the Guardian's original report of an airborne attack by British parachute troops the day after D-day.</a>",
         "tag": "",
         "classname": "",
@@ -237,7 +223,7 @@ storyjs_jsonp_data = {
         "startDate": "1944",
         "endDate": "1946",
         "headline": "Greek civil war",
-        "text": "Anxious to dominate the eastern Mediterranean at the end of WWII, <a href=\"http://en.wikipedia.org/wiki/Percentages_agreement#cite_note-1\">Churchill agreed with Stalin that the Soviets could dominate Hungary and the Balkans if Britain could dominate Greece</a>. Around 26,000 troops were dispatched in October 1944, as German forces retreated. Soon fighting broke out between Royalists and right-wingers, and the Communist-dominated resistance movement, the EAM. British troops fought alongside the anti-Communist forces – their allies against Germany just weeks before - with RAF Wellingtons bombing targets in Athens. After flying to Athens on Christmas Day 1944, to help the Greek general Nikolaos Plastiras broker peace talks, Winston Churchill quipped: “Let's hope General Plaster-Arse doesn't have feet of clay...” The civil war continued until 1949.<p></p><video id='video' controls='false' preload='none' poster=''>\n\n        <source id='ogg' src='http://cdn.theguardian.tv/interactive/mp4/1080/2014/02/05/140205Greece1944_h264-2_mid.ogv' type='video/ogg'>\n\n        <source id='webm' src='http://cdn.theguardian.tv/interactive/2014/02/05/140205Greece1944_h264_2M_vp8.webm' type='video/webm'>\n\n        <source id='m3u8' src='http://cdn.theguardian.tv/HLS/2014/02/05/140205Greece1944/140205Greece1944.m3u8' type='video/m3u8'>\n\n        <source id='mp4' src='http://cdn.theguardian.tv/interactive/2014/02/05/140205Greece1944_h264_2M_H264.mp4' type='video/mp4'>\n\n</video>",
+        "text": "Anxious to dominate the eastern Mediterranean at the end of WWII, <a href=\"http://en.wikipedia.org/wiki/Percentages_agreement#cite_note-1\">Churchill agreed with Stalin that the Soviets could dominate Hungary and the Balkans if Britain could dominate Greece</a>. Around 26,000 troops were dispatched in October 1944, as German forces retreated. Soon fighting broke out between Royalists and right-wingers, and the Communist-dominated resistance movement, the EAM. British troops fought alongside the anti-Communist forces – their allies against Germany just weeks before - with RAF Wellingtons bombing targets in Athens. After flying to Athens on Christmas Day 1944, to help the Greek general Nikolaos Plastiras broker peace talks, Winston Churchill quipped: “Let's hope General Plaster-Arse doesn't have feet of clay...” The civil war continued until 1949.<p></p><video id='video'   preload='none' poster=''>\n\n        <source id='ogg' src='http://cdn.theguardian.tv/interactive/mp4/1080/2014/02/05/140205Greece1944_h264-2_mid.ogv' type='video/ogg'>\n\n        <source id='webm' src='http://cdn.theguardian.tv/interactive/2014/02/05/140205Greece1944_h264_2M_vp8.webm' type='video/webm'>\n\n        <source id='m3u8' src='http://cdn.theguardian.tv/HLS/2014/02/05/140205Greece1944/140205Greece1944.m3u8' type='video/m3u8'>\n\n        <source id='mp4' src='http://cdn.theguardian.tv/interactive/2014/02/05/140205Greece1944_h264_2M_H264.mp4' type='video/mp4'>\n\n</video><p class='videocredit'>Video: ITN Source</p>",
         "tag": "",
         "classname": "",
         "asset": {
@@ -313,15 +299,15 @@ storyjs_jsonp_data = {
         "asset": {
           "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391703063032/British-war-cemetery-in-A-001.jpg",
           "thumbnail": "",
-          "credit": "",
-          "caption": ""
+          "credit": "AFP/Getty Images",
+          "caption": "British war cemetery in Asmara, Eritrea"
         }
       },
       {
         "startDate": "1948",
         "endDate": "1960",
         "headline": "Malaya",
-        "text": "Although the Malayan Emergency lasted 12 years, the British were always confident of eventual victory. “By far the easiest problem I have ever tackled,” said the British commander, when hostilities began. His communist opponents were almost all ethnically Chinese, and faced opposition from most Malays as well as the colonial authorities. It was the first modern counter-insurgency campaign in which the “winning of hearts and minds” was said to be critical to success, and it ended in defeat for the communists. At the outset, however, villages were torched by police and villagers massacred by British troops. According to official figures, 10,700 insurgents were killed, captured or surrendered during the war. Some 519 members of the military and 1,346 police lost their lives, along with 3,283 civilians.<p></p><video id='video' controls='false' preload='none' poster=''>\n\n        <source id='ogg' src='http://cdn.theguardian.tv/interactive/mp4/1080/2014/02/05/140105Malaya1949_h264_lo.ogv' type='video/ogg'>\n\n        <source id='webm' src='http://cdn.theguardian.tv/interactive/2014/02/05/140105Malaya1949_h264_2M_vp8.webm' type='video/webm'>\n\n        <source id='m3u8' src='http://cdn.theguardian.tv/HLS/2014/02/05/140105Malaya1949/140105Malaya1949.m3u8' type='video/m3u8'>\n\n        <source id='mp4' src='http://cdn.theguardian.tv/interactive/2014/02/05/140105Malaya1949_h264_2M_H264.mp4' type='video/mp4'>\n\n</video>",
+        "text": "Although the Malayan Emergency lasted 12 years, the British were always confident of eventual victory. “By far the easiest problem I have ever tackled,” said the British commander, when hostilities began. His communist opponents were almost all ethnically Chinese, and faced opposition from most Malays as well as the colonial authorities. It was the first modern counter-insurgency campaign in which the “winning of hearts and minds” was said to be critical to success, and it ended in defeat for the communists. At the outset, however, villages were torched by police and villagers massacred by British troops. According to official figures, 10,700 insurgents were killed, captured or surrendered during the war. Some 519 members of the military and 1,346 police lost their lives, along with 3,283 civilians.<p></p><video id='video'   preload='none' poster=''>\n\n        <source id='ogg' src='http://cdn.theguardian.tv/interactive/mp4/1080/2014/02/05/140105Malaya1949_h264_lo.ogv' type='video/ogg'>\n\n        <source id='webm' src='http://cdn.theguardian.tv/interactive/2014/02/05/140105Malaya1949_h264_2M_vp8.webm' type='video/webm'>\n\n        <source id='m3u8' src='http://cdn.theguardian.tv/HLS/2014/02/05/140105Malaya1949/140105Malaya1949.m3u8' type='video/m3u8'>\n\n        <source id='mp4' src='http://cdn.theguardian.tv/interactive/2014/02/05/140105Malaya1949_h264_2M_H264.mp4' type='video/mp4'>\n\n</video><p class='videocredit'>Video: ITN Source</p>",
         "tag": "",
         "classname": "",
         "asset": {
@@ -503,7 +489,7 @@ storyjs_jsonp_data = {
         "startDate": "1963",
         "endDate": "1976",
         "headline": "Oman",
-        "text": "Said bin Taimur, the reactionary and repressive ruler of Oman who kept slaves and banned his people from wearing sunglasses or listening to the radio, had faced repeated rebellions in the Dhofar region of the south of the country. He could rely on British support to suppress them. By the late 60s, the sporadic attacks had developed into a well-organised insurgency, with both Russian and Chinese support. Determined to protect the narrow Straits of Hormuz, through which a giant oil tanker passed every ten minutes, the British placed the Sultan's armed forces under British command and drafted in young British officers. One of them was a young Ranulph Fiennes, who later wrote: “The people were oppressed and poverty stricken. The Sultan had no friends but the British. Everywhere [I] saw poverty and dirt; disease and squalor. The people jostled past and spat and stared from dark proud eyes, with hate I thought. I noticed other officers in the busy market...all carried revolvers.” Later SAS troops were dispatched, and the Shah of Iran also sent forces. British-led counter-insurgency operations lasted more than a decade, and for most of that time were conducted in complete secrecy. Just 24 British soldiers were killed, alongside around 900 Omanis and Iranian. There are believed to have been several thousand insurgent and civilian deaths. The campaign is regarded as a model of its kind and is still taught at the British military staff college.",
+        "text": "Said bin Taimur, the reactionary and repressive ruler of Oman who kept slaves and banned his people from wearing sunglasses or listening to the radio, had faced repeated rebellions in the Dhofar region of the south of the country. He could rely on British support to suppress them. By the late 60s, the sporadic attacks had developed into a well-organised insurgency, with both Russian and Chinese support. Determined to protect the narrow Straits of Hormuz, through which a giant oil tanker passed every ten minutes, the British placed the Sultan's armed forces under British command and drafted in young British officers. One of them was a young Ranulph Fiennes, who later wrote: “The people were oppressed and poverty stricken. The Sultan had no friends but the British. ” Later SAS troops were dispatched, and the Shah of Iran also sent forces. British-led counter-insurgency operations lasted more than a decade, and for most of that time were conducted in complete secrecy. Just 24 British soldiers were killed, alongside around 900 Omanis and Iranian. There are believed to have been several thousand insurgent and civilian deaths. The campaign is regarded as a model of its kind and is still taught at the British military staff college.",
         "tag": "",
         "classname": "",
         "asset": {
@@ -531,13 +517,13 @@ storyjs_jsonp_data = {
         "startDate": "1969",
         "endDate": "1998",
         "headline": "Northern Ireland",
-        "text": "Operation Banner, as the British military calls its campaign in Northern Ireland, was officially declared to be at an end in 2007, although the conflict subsided dramatically with the signing of the 1998 Good Friday Agreement. The campaign had lasted 38 years: the longest uninterrupted operation ever conducted by UK forces. More than 500 soldiers died, along with 509 police and members of the security forces, 562 paramilitaries and 2,074 civilians, most of them Catholic.<br><br>Read original Guardian dispatches by <a href=\"http://www.theguardian.com/uk/1972/feb/01/bloodysunday.northernireland\">Simon Hoggart</a> and <a href=\"http://century.theguardian.com/1970-1979/Story/0,,106915,00.html\">Simon Winchester</a> from Derry in the aftermath of Bloody Sunday.<br><br>Read the Guardian's original report of the British government's decision to deploy the SAS to County Armagh in 1976.</a>",
+        "text": "The British army was deployed on the streets of Northern Ireland in 1969, initially to help restore order amid widespread sectarian rioting. Operation Banner, as the British military calls its campaign in Northern Ireland, was officially declared to be at an end in 2007, although the conflict subsided dramatically with the signing of the 1998 Good Friday Agreement. The campaign had lasted 38 years: the longest uninterrupted operation ever conducted by UK forces. More than 500 soldiers died, along with 509 police and members of the security forces, 562 paramilitaries and 2,074 civilians, most of them Catholic.<br><br>Read original Guardian dispatches by <a href=\"http://www.theguardian.com/uk/1972/feb/01/bloodysunday.northernireland\">Simon Hoggart</a> and <a href=\"http://century.theguardian.com/1970-1979/Story/0,,106915,00.html\">Simon Winchester</a> from Derry in the aftermath of Bloody Sunday.<br><br>Read the Guardian's original report of the British government's decision to deploy the SAS to County Armagh in 1976.</a><p></p><video id='video'  preload='none' poster=''>\n\n        <source id='ogg' src='http://cdn.theguardian.tv/interactive/mp4/1080/2014/02/10/140210War100NIreland_h264-1_lo.ogv' type='video/ogg'>\n\n        <source id='webm' src='http://cdn.theguardian.tv/interactive/2014/02/10/140210War100NIreland_h264_2M_vp8.webm' type='video/webm'>\n\n        <source id='m3u8' src='http://cdn.theguardian.tv/HLS/2014/02/10/140210War100NIreland/140210War100NIreland.m3u8' type='video/m3u8'>\n\n        <source id='mp4' src='http://cdn.theguardian.tv/interactive/2014/02/10/140210War100NIreland_h264_2M_H264.mp4' type='video/mp4'>\n\n</video><p class='videocredit'>Video: ITN Source/Reuters/Guardian</p>",
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391709349986/Police-and-rioters-on-the-001.jpg",
+          "media": "",
           "thumbnail": "",
-          "credit": "Alain Le Garsmeur/ Hulton/ Getty",
+          "credit": "",
           "caption": "Police and rioters on the streets of Derry after an Apprentice Boys march in 1975"
         }
       },
@@ -545,20 +531,20 @@ storyjs_jsonp_data = {
         "startDate": "1982",
         "endDate": "1982",
         "headline": "Falklands",
-        "text": "The ten-week war between Britain and Argentina over control of the long-disputed Falkland Islands and South Georgia resulted in the deaths of 255 British servicemen, 649 Argentinians, and three civilians. More than 2,400 were wounded. Mary Watson spent the war worrying that her only son Tony, a sailor on HMS Glamorgan, might never return home. When he did, she was there to greet him off the ship. \"It was good to hold him,\" she said later. \"It was a sad occasion as well. As we were crying with joy, others would be crying with sorrow, because some of the boys hadn't come back. The whole experience of the Falkland War changed my life - I'm frightened of what's around the corner.\"<br><br><a href=\"http://www.theguardian.com/uk/1982/apr/03/falklands.past\">Read the Guardian's original report of the political recriminations in Britain that followed Argentina's invasion of the Falkland Islands.</a><br><br>Read Gareth Parry's <a href=\"http://www.theguardian.com/theguardian/2012/may/25/archive-1982-falklands-hms-antelope\">original first-hand report</a> for the Guardian of the task force landing at San Carlos Bay and <a href=\"http://www.theguardian.com/uk/2012/jul/03/falklands-conflict-british-forces-archive-1982\">his reflections on reporting the conflict alongside British forces.<br><br>Read the Guardian's <a href=\"http://www.theguardian.com/theguardian/2012/jun/15/falklands-war-ceasefire-troops-surrender-1982\">original report of the Argentinian surrender</a> and <a href=\"http://www.theguardian.com/politics/1982/jun/16/past.falklands\">leader article</a> reflecting on the end of the war.\n",
+        "text": "The ten-week war between Britain and Argentina over control of the long-disputed Falkland Islands and South Georgia resulted in the deaths of 255 British servicemen, 649 Argentinians, and three civilians. More than 2,400 were wounded. Mary Watson spent the war worrying that her only son Tony, a sailor on HMS Glamorgan, might never return home. When he did, she was there to greet him off the ship. \"It was good to hold him,\" she said later. \"It was a sad occasion as well. As we were crying with joy, others would be crying with sorrow, because some of the boys hadn't come back. The whole experience of the Falkland War changed my life - I'm frightened of what's around the corner.\"<br><br><a href=\"http://www.theguardian.com/uk/1982/apr/03/falklands.past\">Read the Guardian's original report of the political recriminations in Britain that followed Argentina's invasion of the Falkland Islands.</a><br><br>Read Gareth Parry's <a href=\"http://www.theguardian.com/theguardian/2012/may/25/archive-1982-falklands-hms-antelope\">original first-hand report</a> for the Guardian of the task force landing at San Carlos Bay and <a href=\"http://www.theguardian.com/uk/2012/jul/03/falklands-conflict-british-forces-archive-1982\">his reflections on reporting the conflict alongside British forces.<br><br>Read the Guardian's <a href=\"http://www.theguardian.com/theguardian/2012/jun/15/falklands-war-ceasefire-troops-surrender-1982\">original report of the Argentinian surrender</a> and <a href=\"http://www.theguardian.com/politics/1982/jun/16/past.falklands\">leader article</a> reflecting on the end of the war.<p></p><video id='video'  preload='none' poster=''>\n\n        <source id='ogg' src='http://cdn.theguardian.tv/interactive/mp4/1080/2014/02/10/140210War100Falklands_h264_mid.ogv' type='video/ogg'>\n\n        <source id='webm' src='http://cdn.theguardian.tv/interactive/2014/02/10/140210War100Falklands_h264_2M_vp8.webm' type='video/webm'>\n\n        <source id='m3u8' src='http://cdn.theguardian.tv/HLS/2014/02/10/140210War100Falklands/140210War100Falklands.m3u8' type='video/m3u8'>\n\n        <source id='mp4' src='http://cdn.theguardian.tv/interactive/2014/02/10/140210War100Falklands_h264_2M_H264-1.mp4' type='video/mp4'>\n\n</video><p class='videocredit'>Video: ITN Source/Reuters/Guardian</p>\n",
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391705307436/A-bomb-explodes-on-board--001.jpg",
+          "media": "",
           "thumbnail": "",
-          "credit": "Martin Cleaver/PA",
+          "credit": "",
           "caption": "A bomb explodes on board the frigate HMS Antelope during the Falklands War 1982"
         }
       },
       {
         "startDate": "1990",
         "endDate": "1991",
-        "headline": "Gulf War",
+        "headline": "First Gulf war",
         "text": "More than 50,000 British troops, 6,000 RAF personnel, an aircraft acarrier and several destroyers were deployed to the Gulf after the Iraqi invasion of Kuwait in August 1990, to serve alongside forces from 11 other nations. UK special forces, meanwhile, began operating inside Kuwait and Iraq's Western Desert shortly after the invasion. Forty seven British servicemen were among the 400-plus coalition personnel who lost their lives, along with thousands of Iraqis. Nine British soldiers were killed in a “friendly fire” incident when their armoured convoy was attacked by a US aircraft. One, Conrad Cole, was just 17.<a href=\"http://century.theguardian.com/1990-1999/Story/0,,112384,00.html\">Read the Guardian's original report of international reaction to the Iraqi invasion of Kuwait.</a>",
         "tag": "",
         "classname": "",
@@ -643,13 +629,13 @@ storyjs_jsonp_data = {
         "startDate": "2001",
         "endDate": "2014",
         "headline": "Afghanistan",
-        "text": "Thirteen years of war began with the UK assisting military operations to topple the Taliban regime that had given al-Qaida the space to plot the attacks of 9/11, then contributing to peace-keeping operations around Kabul. In 2006, the Ministry of Defence announced it was sending 3,300 personnel into Helmand province in the south of the country, and 2,500 more were dispatched the following year. By the end of last year, 447 British soldiers and civilians had been killed and 2,171 wounded in action. Civilian deaths are running at more than 2,000 each year across Afghanistan, and parts of Helmand remain the most contested areas of the country.",
+        "text": "Thirteen years of war began with the UK assisting military operations to topple the Taliban regime that had given al-Qaida the space to plot the attacks of 9/11, then contributing to peace-keeping operations around Kabul. In 2006, the Ministry of Defence announced it was sending 3,300 personnel into Helmand province in the south of the country, and 2,500 more were dispatched the following year. By the end of last year, 447 British soldiers and civilians had been killed and 2,171 wounded in action. Civilian deaths are running at more than 2,000 each year across Afghanistan, and parts of Helmand remain the most contested areas of the country.<p></p><video id='video'  preload='none' poster=''>\n\n        <source id='ogg' src='http://cdn.theguardian.tv/interactive/mp4/1080/2014/02/10/140210War100Aghanistan_h264-1_lo.ogv' type='video/ogg'>\n\n        <source id='webm' src='http://cdn.theguardian.tv/interactive/2014/02/10/140210War100Aghanistan_h264_2M_vp8.webm' type='video/webm'>\n\n        <source id='m3u8' src='http://cdn.theguardian.tv/HLS/2014/02/10/140210War100Aghanistan/140210War100Aghanistan.m3u8' type='video/m3u8'>\n\n        <source id='mp4' src='http://cdn.theguardian.tv/interactive/2014/02/10/140210War100Aghanistan_h264_2M_H264.mp4' type='video/mp4'>\n\n</video><p class='videocredit'>Video: Guardian</p>",
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391714406690/The-Black-Watch-in-Helman-001.jpg",
+          "media": "",
           "thumbnail": "",
-          "credit": "Sean Smith for the Guardian",
+          "credit": "",
           "caption": "The Black Watch in Helmand, Afghanistan, 2009"
         }
       }
