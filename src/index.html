@@ -28,11 +28,19 @@
                 js:                 'timelinejs/js/timeline.js'    //OPTIONAL PATH TO JS
             }
         </script>
+
+        <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
         <script type="text/javascript" src="timelinejs/js/storyjs-embed.js"></script>
         <script src="http://interactive.guim.co.uk/libs/iframe-messenger/0.2.1/iframeMessenger.js"></script>
         <script>
             // Auto resize
             iframeMessenger.enableAutoResize();
+
+            // // Open links externally
+            $('#timeline-embed').on('click', 'a', function(event) {
+                event.preventDefault();
+                iframeMessenger.navigate(this.href);
+            });
         </script>
     </body>
 </html>
