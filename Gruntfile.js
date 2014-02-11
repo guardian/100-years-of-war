@@ -33,7 +33,8 @@ module.exports = function(grunt) {
                   dest: 'embed/2014/feb/100-years-of-war/data.jsonp',
                   options: {
                       headers: {
-                          "Content-Type": "application/javascript"
+                          "Content-Type": "application/javascript",
+                          "Cache-Control": "max-age=60, public"
                       }
                   },
               }]
@@ -51,7 +52,8 @@ module.exports = function(grunt) {
                   dest: 'embed/2014/feb/100-years-of-war/data.jsonp',
                   options: {
                       headers: {
-                          "Content-Type": "application/javascript"
+                          "Content-Type": "application/javascript",
+                          "Cache-Control": "max-age=60, public"
                       }
                   },
               }
