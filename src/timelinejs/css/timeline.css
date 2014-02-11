@@ -1674,7 +1674,7 @@
     /*background-image:url(timeline.png?v4.4);*/
     background-repeat:no-repeat;
     background-position:0 -53px;
-    width:153px;
+    width: 76px;
     height:53px
 }
 .vco-notouch .vco-navigation .timenav .content .marker .flag-small:hover {
@@ -1951,7 +1951,7 @@
     /*background-image:url(timeline.png?v4.4);*/
     background-repeat:no-repeat;
     background-position:0 -53px;
-    width:153px;
+    width:76px;
     height:53px
 }
 .vco-timeline .vco-navigation .timenav .content .marker.active .flag-small {
@@ -2021,7 +2021,7 @@
     padding:0;
     display:block;
     z-index:23;
-    width:153px
+    width:76px
 }
 .vco-timeline .vco-navigation .timenav .content .marker .flag .flag-content, .vco-timeline .vco-navigation .timenav .content .marker .flag-small .flag-content {
     padding:0 7px 2px 6px;
@@ -2076,7 +2076,7 @@
     /*background-image:url(timeline.png?v4.4);*/
     background-repeat:no-repeat;
     background-position:0 0;
-    width:153px;
+    width:76px;
     height:53px;
     margin-top:40px;
 }
