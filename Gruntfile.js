@@ -30,7 +30,7 @@ module.exports = function(grunt) {
         pushdata: {
             upload: [{
                   src: 'src/data.jsonp',
-                  dest: 'embed/2014/feb/100-years-of-war/',
+                  dest: 'embed/2014/feb/100-years-of-war/data.jsonp',
                   options: {
                       headers: {
                           "Content-Type": "application/javascript"
@@ -48,7 +48,7 @@ module.exports = function(grunt) {
               },
               {
                   src: 'src/data.jsonp',
-                  dest: 'embed/2014/feb/100-years-of-war/',
+                  dest: 'embed/2014/feb/100-years-of-war/data.jsonp',
                   options: {
                       headers: {
                           "Content-Type": "application/javascript"
