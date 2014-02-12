@@ -949,7 +949,7 @@
     border:0
 }
 .vco-slider .slider-item .content .content-container .media .media-wrapper .media-container .media-image {
-    display:inline-block
+    display:block
 }
 .vco-slider .slider-item .content .content-container .media .media-wrapper .media-container .media-shadow {
     position:relative;
