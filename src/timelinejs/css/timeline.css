@@ -925,12 +925,12 @@
     float:left
 }
 .vco-slider .slider-item .content .content-container .media .media-wrapper {
-    display:inline-block;
+    display:block;
     margin-left:auto;
     margin-right:auto
 }
 .vco-slider .slider-item .content .content-container .media .media-wrapper .media-container {
-    display:inline-block;
+    display:block;
     line-height:0;
     padding:0;
     max-height:100%;
