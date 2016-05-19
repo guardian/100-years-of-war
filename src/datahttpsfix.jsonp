@@ -13,11 +13,11 @@ storyjs_jsonp_data = {
         "startDate": "1914",
         "endDate": "1918",
         "headline": "First world war",
-        "text": "Britain declares war on Germany on August 4, 1914. Over the next four years, Britain mobilised nine million soldiers, fighting mainly on the Western Front. The fighting ranges from Mons in 1914 to the Second Battle of Ypres in 1916, from the Somme in 1916 to the Cambrai operations in 1917, and the Somme again in 1918. The British also fought at Gallipoli, in Iraq, in Palestine, Salonika and Italy. The war ended in November 1918. The British War Office listed the number of its dead or missing as 908,371, which included colonial soldiers. The Royal Navy dead and missing was put at 32,287.<br><br><a href=\"http://www.theguardian.com/theguardian/1914/aug/05/fromthearchive\">Read the Guardian's original report of Great Britain's declaration of war on Germany.</a><br><br><a href=\"http://century.theguardian.com/1910-1919/Story/0,,99318,00.html'>Read the Guardian's original report of Armistice Day, 1919.</a>\n\n",
+        "text": "Britain declares war on Germany on August 4, 1914. Over the next four years, Britain mobilised nine million soldiers, fighting mainly on the Western Front. The fighting ranges from Mons in 1914 to the Second Battle of Ypres in 1916, from the Somme in 1916 to the Cambrai operations in 1917, and the Somme again in 1918. The British also fought at Gallipoli, in Iraq, in Palestine, Salonika and Italy. The war ended in November 1918. The British War Office listed the number of its dead or missing as 908,371, which included colonial soldiers. The Royal Navy dead and missing was put at 32,287.<br><br><a href=\"https://www.theguardian.com/theguardian/1914/aug/05/fromthearchive\">Read the Guardian's original report of Great Britain's declaration of war on Germany.</a><br><br><a href=\"https://century.theguardian.com/1910-1919/Story/0,,99318,00.html'>Read the Guardian's original report of Armistice Day, 1919.</a>\n\n",
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/10/1392047126312/British-troops-on-the-Wes-002.jpg",
+          "media": "https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/10/1392047126312/British-troops-on-the-Wes-002.jpg",
           "thumbnail": "",
           "credit": "IWM via Getty Images",
           "caption": "The British army on the Western Front in 1917"
@@ -27,11 +27,11 @@ storyjs_jsonp_data = {
         "startDate": "1916",
         "endDate": "1916",
         "headline": "Easter rising",
-        "text": "British troops put down the Easter Rising. More than 450 civilians, troops and members of the IRA are killed during the fighting or executed afterwards.<br><br><a href=\"http://century.theguardian.com/1910-1919/Story/0,,126457,00.html\">Read the Guardian's original report of the Easter Rising.</a>",
+        "text": "British troops put down the Easter Rising. More than 450 civilians, troops and members of the IRA are killed during the fighting or executed afterwards.<br><br><a href=\"https://century.theguardian.com/1910-1919/Story/0,,126457,00.html\">Read the Guardian's original report of the Easter Rising.</a>",
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/5/1391619650634/British-soldiers-in-the-G-001.jpg\n\n",
+          "media": "https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/5/1391619650634/British-soldiers-in-the-G-001.jpg\n\n",
           "thumbnail": "",
           "credit": "Getty Images",
           "caption": "British soldiers in the General Post Office in Dublin during the  1916 Easter Rising"
@@ -45,7 +45,7 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391679521345/The-Royal-Naval-Auxilitar-001.jpg",
+          "media": "https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391679521345/The-Royal-Naval-Auxilitar-001.jpg",
           "thumbnail": "",
           "credit": "Getty",
           "caption": "The Royal Naval Auxilitary Service during the Allied intervention in Russia at the Murmansk-Archangel Front"
@@ -59,7 +59,7 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391680319777/Members-of-the-Border-Reg-001.jpg\n\n",
+          "media": "https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391680319777/Members-of-the-Border-Reg-001.jpg\n\n",
           "thumbnail": "",
           "credit": "Hulton/ Getty",
           "caption": "Members of the Border Regiment look out over  the North West Frontier of India"
@@ -73,7 +73,7 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "<video id='video'   preload='none' poster=''>\n\n        <source id='ogg' src='http://cdn.theguardian.tv/interactive/mp4/1080/2014/02/05/140205India1923_h264-2_lo.ogv' type='video/ogg'>\n\n        <source id='webm' src='http://cdn.theguardian.tv/interactive/2014/02/05/140205India1923_h264_2M_vp8.webm' type='video/webm'>\n\n        <source id='m3u8' src='http://cdn.theguardian.tv/HLS/2014/02/05/140205India1923/140205India1923.m3u8' type='video/m3u8'>\n\n        <source id='mp4' src='http://cdn.theguardian.tv/interactive/2014/02/05/140205India1923_h264_2M_H264.mp4' type='video/mp4'>\n\n</video>",
+          "media": "<video id='video'   preload='none' poster=''>\n\n        <source id='ogg' src='https://cdn.theguardian.tv/interactive/mp4/1080/2014/02/05/140205India1923_h264-2_lo.ogv' type='video/ogg'>\n\n        <source id='webm' src='https://cdn.theguardian.tv/interactive/2014/02/05/140205India1923_h264_2M_vp8.webm' type='video/webm'>\n\n        <source id='m3u8' src='https://cdn.theguardian.tv/HLS/2014/02/05/140205India1923/140205India1923.m3u8' type='video/m3u8'>\n\n        <source id='mp4' src='https://cdn.theguardian.tv/interactive/2014/02/05/140205India1923_h264_2M_H264.mp4' type='video/mp4'>\n\n</video>",
           "thumbnail": "",
           "credit": "ITN Source",
           "caption": ""
@@ -87,7 +87,7 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391699248404/RAF-Airco-DH.9A-in-Somali-001.jpg",
+          "media": "https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391699248404/RAF-Airco-DH.9A-in-Somali-001.jpg",
           "thumbnail": "",
           "credit": "National Archives",
           "caption": "RAF Airco DH.9A in Somaliland, 1920"
@@ -101,7 +101,7 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391683327244/Soldiers-from-the-East-Su-001.jpg",
+          "media": "https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391683327244/Soldiers-from-the-East-Su-001.jpg",
           "thumbnail": "",
           "credit": "Hulton/ Getty",
           "caption": "Soldiers from the East Surrey regiment en route for Baghdad, Iraq"
@@ -115,7 +115,7 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391708567804/Winston-Churchill-in-1920-001.jpg",
+          "media": "https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391708567804/Winston-Churchill-in-1920-001.jpg",
           "thumbnail": "",
           "credit": "Gamma-Keystone via Getty Images",
           "caption": "Winston Churchill in 1920, Secretary of State for War during the Kurdish Rebellion."
@@ -129,7 +129,7 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391715106962/A-soldier-fires-a-rifle-f-001.jpg",
+          "media": "https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391715106962/A-soldier-fires-a-rifle-f-001.jpg",
           "thumbnail": "",
           "credit": "Walter Doughty for the Guardian",
           "caption": "A soldier fires a rifle from behind an armoured truck in Dublin, Ireland, 1922, during the Irish Civil War"
@@ -143,7 +143,7 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "<video id='video'   preload='none' poster=''>\n\n        <source id='ogg' src='http://cdn.theguardian.tv/interactive/mp4/1080/2014/02/05/140205China1927_h264_lo.ogv' type='video/ogg'>\n\n        <source id='webm' src='http://cdn.theguardian.tv/interactive/2014/02/05/140205China1927_h264_2M_vp8.webm' type='video/webm'>\n\n        <source id='m3u8' src='http://cdn.theguardian.tv/HLS/2014/02/05/140205China1927/140205China1927.m3u8' type='video/m3u8'>\n\n        <source id='mp4' src='http://cdn.theguardian.tv/interactive/2014/02/05/140205China1927_h264_2M_H264.mp4' type='video/mp4'>\n\n</video>",
+          "media": "<video id='video'   preload='none' poster=''>\n\n        <source id='ogg' src='https://cdn.theguardian.tv/interactive/mp4/1080/2014/02/05/140205China1927_h264_lo.ogv' type='video/ogg'>\n\n        <source id='webm' src='https://cdn.theguardian.tv/interactive/2014/02/05/140205China1927_h264_2M_vp8.webm' type='video/webm'>\n\n        <source id='m3u8' src='https://cdn.theguardian.tv/HLS/2014/02/05/140205China1927/140205China1927.m3u8' type='video/m3u8'>\n\n        <source id='mp4' src='https://cdn.theguardian.tv/interactive/2014/02/05/140205China1927_h264_2M_H264.mp4' type='video/mp4'>\n\n</video>",
           "thumbnail": "",
           "credit": "ITN Source",
           "caption": ""
@@ -157,7 +157,7 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391710829608/A-Fairey-Gordon-light-day-001.jpg",
+          "media": "https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391710829608/A-Fairey-Gordon-light-day-001.jpg",
           "thumbnail": "",
           "credit": "IWM",
           "caption": "A Fairey Gordon light day bomber of No 47 Squadron, RAF, in flight over the Sudan"
@@ -171,7 +171,7 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391709494389/RAF-Vickers-Vincent-aircr-001.jpg",
+          "media": "https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391709494389/RAF-Vickers-Vincent-aircr-001.jpg",
           "thumbnail": "",
           "credit": "Royal Air Force Museum/Hulton Getty",
           "caption": "RAF Vickers Vincent aircraft saw action during unrest in Aden, 1928 "
@@ -185,7 +185,7 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391715646493/Kuwait-1929-001.jpg",
+          "media": "https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391715646493/Kuwait-1929-001.jpg",
           "thumbnail": "",
           "credit": "",
           "caption": ""
@@ -199,7 +199,7 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391711458425/A-British-Army-convoy-in--001.jpg",
+          "media": "https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391711458425/A-British-Army-convoy-in--001.jpg",
           "thumbnail": "",
           "credit": "Hulton/Getty",
           "caption": "A British Army convoy in Palestine, 1930s."
@@ -209,11 +209,11 @@ storyjs_jsonp_data = {
         "startDate": "1939",
         "endDate": "1945",
         "headline": "Second world war",
-        "text": "In September 1939, the British government mobilises armed forces in anticipation of German air raids. After initial setbacks, culminating in evacuation from Dunkirk in 1940, the British began to see a change in fortune, with the Battle of El Alamein in 1942. British forces were engaged all round the world, from the Arctic campaign to the Battle of Atlantic, from Italy and France, from Singapore to the Pacific. At its height, more than 3.5 million served in the army. The British army death toll, including those from the Commonwealth, amounted to 383,000.<br><br><a href=\"http://www.theguardian.com/world/1939/sep/04/germany.secondworldwar\">Read the Guardian's original report of Britain's declaration of war on Germany.</a><br><br><a href=\"http://www.theguardian.com/world/1944/jun/07/secondworldwar.fromthearchive\">Read the Guardian's original report of the fighting in northern France following D-day.</a><br><br><a href=\"http://www.theguardian.com/world/1944/jun/09/secondworldwar.fromthearchive\">Read the Guardian's original report of an airborne attack by British parachute troops the day after D-day.</a>",
+        "text": "In September 1939, the British government mobilises armed forces in anticipation of German air raids. After initial setbacks, culminating in evacuation from Dunkirk in 1940, the British began to see a change in fortune, with the Battle of El Alamein in 1942. British forces were engaged all round the world, from the Arctic campaign to the Battle of Atlantic, from Italy and France, from Singapore to the Pacific. At its height, more than 3.5 million served in the army. The British army death toll, including those from the Commonwealth, amounted to 383,000.<br><br><a href=\"https://www.theguardian.com/world/1939/sep/04/germany.secondworldwar\">Read the Guardian's original report of Britain's declaration of war on Germany.</a><br><br><a href=\"https://www.theguardian.com/world/1944/jun/07/secondworldwar.fromthearchive\">Read the Guardian's original report of the fighting in northern France following D-day.</a><br><br><a href=\"https://www.theguardian.com/world/1944/jun/09/secondworldwar.fromthearchive\">Read the Guardian's original report of an airborne attack by British parachute troops the day after D-day.</a>",
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391686512871/Winston-Churchill-Sir-Mil-001.jpg",
+          "media": "https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391686512871/Winston-Churchill-Sir-Mil-001.jpg",
           "thumbnail": "",
           "credit": "AFP",
           "caption": "Winston Churchill, Sir Miles Dempsey, Bernard Montgomery visit Caen on 23 July 1944"
@@ -223,11 +223,11 @@ storyjs_jsonp_data = {
         "startDate": "1944",
         "endDate": "1946",
         "headline": "Greek civil war",
-        "text": "Anxious to dominate the eastern Mediterranean at the end of WWII, <a href=\"http://en.wikipedia.org/wiki/Percentages_agreement#cite_note-1\">Churchill agreed with Stalin that the Soviets could dominate Hungary and the Balkans if Britain could dominate Greece</a>. Around 26,000 troops were dispatched in October 1944, as German forces retreated. Soon fighting broke out between Royalists and right-wingers, and the Communist-dominated resistance movement, the EAM. British troops fought alongside the anti-Communist forces – their allies against Germany just weeks before - with RAF Wellingtons bombing targets in Athens. After flying to Athens on Christmas Day 1944, to help the Greek general Nikolaos Plastiras broker peace talks, Winston Churchill quipped: “Let's hope General Plaster-Arse doesn't have feet of clay...” The civil war continued until 1949.",
+        "text": "Anxious to dominate the eastern Mediterranean at the end of WWII, <a href=\"https://en.wikipedia.org/wiki/Percentages_agreement#cite_note-1\">Churchill agreed with Stalin that the Soviets could dominate Hungary and the Balkans if Britain could dominate Greece</a>. Around 26,000 troops were dispatched in October 1944, as German forces retreated. Soon fighting broke out between Royalists and right-wingers, and the Communist-dominated resistance movement, the EAM. British troops fought alongside the anti-Communist forces – their allies against Germany just weeks before - with RAF Wellingtons bombing targets in Athens. After flying to Athens on Christmas Day 1944, to help the Greek general Nikolaos Plastiras broker peace talks, Winston Churchill quipped: “Let's hope General Plaster-Arse doesn't have feet of clay...” The civil war continued until 1949.",
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "<video id='video'   preload='none' poster=''>\n\n        <source id='ogg' src='http://cdn.theguardian.tv/interactive/mp4/1080/2014/02/05/140205Greece1944_h264-2_mid.ogv' type='video/ogg'>\n\n        <source id='webm' src='http://cdn.theguardian.tv/interactive/2014/02/05/140205Greece1944_h264_2M_vp8.webm' type='video/webm'>\n\n        <source id='m3u8' src='http://cdn.theguardian.tv/HLS/2014/02/05/140205Greece1944/140205Greece1944.m3u8' type='video/m3u8'>\n\n        <source id='mp4' src='http://cdn.theguardian.tv/interactive/2014/02/05/140205Greece1944_h264_2M_H264.mp4' type='video/mp4'>\n\n</video>",
+          "media": "<video id='video'   preload='none' poster=''>\n\n        <source id='ogg' src='https://cdn.theguardian.tv/interactive/mp4/1080/2014/02/05/140205Greece1944_h264-2_mid.ogv' type='video/ogg'>\n\n        <source id='webm' src='https://cdn.theguardian.tv/interactive/2014/02/05/140205Greece1944_h264_2M_vp8.webm' type='video/webm'>\n\n        <source id='m3u8' src='https://cdn.theguardian.tv/HLS/2014/02/05/140205Greece1944/140205Greece1944.m3u8' type='video/m3u8'>\n\n        <source id='mp4' src='https://cdn.theguardian.tv/interactive/2014/02/05/140205Greece1944_h264_2M_H264.mp4' type='video/mp4'>\n\n</video>",
           "thumbnail": ".",
           "credit": "ITN Source",
           "caption": "."
@@ -241,7 +241,7 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/guardian/Pix/pictures/2014/1/29/1391010266516/RAF-Westland-Wapiti-aircr-001.jpg",
+          "media": "https://static.guim.co.uk/sys-images/guardian/Pix/pictures/2014/1/29/1391010266516/RAF-Westland-Wapiti-aircr-001.jpg",
           "thumbnail": "",
           "credit": "",
           "caption": ""
@@ -255,7 +255,7 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391715989535/Captain-Scott-Bell-of-the-001.jpg\n\n",
+          "media": "https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391715989535/Captain-Scott-Bell-of-the-001.jpg\n\n",
           "thumbnail": "",
           "credit": "IWM",
           "caption": "Captain Scott-Bell of the Royal Navy speaks with Japanese Admiral Kondo after the landing of Allied occupation forces at Saigon"
@@ -269,7 +269,7 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391716318917/An-Indian-soldier-covers--001.jpg",
+          "media": "https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391716318917/An-Indian-soldier-covers--001.jpg",
           "thumbnail": "",
           "credit": "IWM",
           "caption": "An Indian soldier covers the advance of British Stuart light tanks in Surabaya"
@@ -279,11 +279,11 @@ storyjs_jsonp_data = {
         "startDate": "1945",
         "endDate": "1948",
         "headline": "Palestine",
-        "text": "Thousands of British troops were stationed in Palestine when the Jewish insurgency began in October 1945. Within two years, two divisions of British troops were engaged in a conflict which was deeply unpopular, both at home and abroad. London decided to pass the problem to the United Nations and announced that the British Mandate would end in May 1948. Some British forces withdrew overland to Egypt, passing elements of the Egyptian army that were travelling in the opposite direction to invade the newly-declared state of Israel.<br><br><a href=\"http://century.theguardian.com/1940-1949/Story/0,,105143,00.html\">Read Alistair Cooke's original report for the Guardian on the Arab states' rejection of a UN plan to partition Palestine.</a> ",
+        "text": "Thousands of British troops were stationed in Palestine when the Jewish insurgency began in October 1945. Within two years, two divisions of British troops were engaged in a conflict which was deeply unpopular, both at home and abroad. London decided to pass the problem to the United Nations and announced that the British Mandate would end in May 1948. Some British forces withdrew overland to Egypt, passing elements of the Egyptian army that were travelling in the opposite direction to invade the newly-declared state of Israel.<br><br><a href=\"https://century.theguardian.com/1940-1949/Story/0,,105143,00.html\">Read Alistair Cooke's original report for the Guardian on the Arab states' rejection of a UN plan to partition Palestine.</a> ",
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391690403410/A-British-soldier-stands--001.jpg",
+          "media": "https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391690403410/A-British-soldier-stands--001.jpg",
           "thumbnail": "",
           "credit": "AFP",
           "caption": "A British soldier stands guard at the demarcation line in Jerusalem, 1948"
@@ -297,7 +297,7 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391703063032/British-war-cemetery-in-A-001.jpg",
+          "media": "https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391703063032/British-war-cemetery-in-A-001.jpg",
           "thumbnail": "",
           "credit": "AFP/Getty Images",
           "caption": "British war cemetery in Asmara, Eritrea"
@@ -311,7 +311,7 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "<video id='video'   preload='none' poster=''>\n\n        <source id='ogg' src='http://cdn.theguardian.tv/interactive/mp4/1080/2014/02/05/140105Malaya1949_h264_lo.ogv' type='video/ogg'>\n\n        <source id='webm' src='http://cdn.theguardian.tv/interactive/2014/02/05/140105Malaya1949_h264_2M_vp8.webm' type='video/webm'>\n\n        <source id='m3u8' src='http://cdn.theguardian.tv/HLS/2014/02/05/140105Malaya1949/140105Malaya1949.m3u8' type='video/m3u8'>\n\n        <source id='mp4' src='http://cdn.theguardian.tv/interactive/2014/02/05/140105Malaya1949_h264_2M_H264.mp4' type='video/mp4'>\n\n</video>",
+          "media": "<video id='video'   preload='none' poster=''>\n\n        <source id='ogg' src='https://cdn.theguardian.tv/interactive/mp4/1080/2014/02/05/140105Malaya1949_h264_lo.ogv' type='video/ogg'>\n\n        <source id='webm' src='https://cdn.theguardian.tv/interactive/2014/02/05/140105Malaya1949_h264_2M_vp8.webm' type='video/webm'>\n\n        <source id='m3u8' src='https://cdn.theguardian.tv/HLS/2014/02/05/140105Malaya1949/140105Malaya1949.m3u8' type='video/m3u8'>\n\n        <source id='mp4' src='https://cdn.theguardian.tv/interactive/2014/02/05/140105Malaya1949_h264_2M_H264.mp4' type='video/mp4'>\n\n</video>",
           "thumbnail": "",
           "credit": "ITN Source",
           "caption": ""
@@ -325,7 +325,7 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391692139605/HMS-Amethyst-after-action-001.jpg",
+          "media": "https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391692139605/HMS-Amethyst-after-action-001.jpg",
           "thumbnail": "",
           "credit": "Hulton/ Getty",
           "caption": "HMS Amethyst, after action on the Yangtze River, 1949"
@@ -339,7 +339,7 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391692703438/-British-soldiers-of-the--001.jpg",
+          "media": "https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391692703438/-British-soldiers-of-the--001.jpg",
           "thumbnail": "",
           "credit": "Popperfoto/Getty Images",
           "caption": "British soldiers of the 1st Battalion the Gloucestershire Regiment in Korea, 1951"
@@ -353,7 +353,7 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391695877951/British-Soldiers-preparin-001.jpg",
+          "media": "https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391695877951/British-Soldiers-preparin-001.jpg",
           "thumbnail": "",
           "credit": "Gamma-Keystone via Getty Images",
           "caption": "British Soldiers preparing to leave for the Suez Canal, 1951"
@@ -363,11 +363,11 @@ storyjs_jsonp_data = {
         "startDate": "1956",
         "endDate": "1956",
         "headline": "Suez crisis",
-        "text": "When the Egyptians nationalised the Anglo-French Suez Canal Company, London and Paris conspired with Israel to attack – an Israeli invasion providing the justification for British and French intervention. The war was halted on the insistence of the United Nations after it triggered international outrage.<br><br><a href=\"http://www.theguardian.com/media/from-the-archive-blog/2011/may/28/suez-canal-crisis-1956\">Read an original Guardian report on the start of British and French bombing of Egypt.</a><br><br><a href=\"http://century.theguardian.com/1950-1959/Story/0,,105509,00.html\">Read an original Guardian piece published after the UN ceasefire.</a>\n\n",
+        "text": "When the Egyptians nationalised the Anglo-French Suez Canal Company, London and Paris conspired with Israel to attack – an Israeli invasion providing the justification for British and French intervention. The war was halted on the insistence of the United Nations after it triggered international outrage.<br><br><a href=\"https://www.theguardian.com/media/from-the-archive-blog/2011/may/28/suez-canal-crisis-1956\">Read an original Guardian report on the start of British and French bombing of Egypt.</a><br><br><a href=\"https://century.theguardian.com/1950-1959/Story/0,,105509,00.html\">Read an original Guardian piece published after the UN ceasefire.</a>\n\n",
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391695386685/Egyptians-crowd-around-a--001.jpg\n\n",
+          "media": "https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391695386685/Egyptians-crowd-around-a--001.jpg\n\n",
           "thumbnail": "",
           "credit": "Fox Photos/ Getty",
           "caption": "Egyptians crowd around a British tank in Port Said during the Suez Crisis, 1956"
@@ -381,7 +381,7 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391696242427/the-Devon-Regiment-ooking-001.jpg",
+          "media": "https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391696242427/the-Devon-Regiment-ooking-001.jpg",
           "thumbnail": "",
           "credit": "Popperfoto/Getty Images",
           "caption": "Members of the Devon Regiment assisting police in searching homes at Karoibangi, Kenya where they are looking for Mau Mau, 1954"
@@ -395,7 +395,7 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391717261929/guards-in-front-of-the-go-001.jpg",
+          "media": "https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391717261929/guards-in-front-of-the-go-001.jpg",
           "thumbnail": "",
           "credit": "Evelyn De Long/ Getty",
           "caption": "Guards in front of the governor's residence in Georgetown, British Guiana"
@@ -405,11 +405,11 @@ storyjs_jsonp_data = {
         "startDate": "1955",
         "endDate": "1959",
         "headline": "Cyprus",
-        "text": "The British colonial authorities were taken by surprise when insurgents from the Greek nationalist organisation Eoka launched their first attack in April 1955, initially assuming them to be communists. Fighting continued until 1959, and Cyprus gained independence the following year. Some 370 British servicemen died along with more than 40 police officers, and hundreds of Greek and Turkish Cypriot civilians.<br><br><a href=\"http://www.theguardian.com/theguardian/2012/may/14/archive-1956-priest-terrorist-cyprus-greece\">Read an original Guardian report on fears that EOKA fighters were disguising themselves as priests.</a>",
+        "text": "The British colonial authorities were taken by surprise when insurgents from the Greek nationalist organisation Eoka launched their first attack in April 1955, initially assuming them to be communists. Fighting continued until 1959, and Cyprus gained independence the following year. Some 370 British servicemen died along with more than 40 police officers, and hundreds of Greek and Turkish Cypriot civilians.<br><br><a href=\"https://www.theguardian.com/theguardian/2012/may/14/archive-1956-priest-terrorist-cyprus-greece\">Read an original Guardian report on fears that EOKA fighters were disguising themselves as priests.</a>",
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391696656356/British-soldiers-search-a-001.jpg\n\n",
+          "media": "https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391696656356/British-soldiers-search-a-001.jpg\n\n",
           "thumbnail": "",
           "credit": "Getty",
           "caption": "British soldiers search a Greek orthodox priest in Cyprus, 1955"
@@ -423,7 +423,7 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391697440408/Said-ibn-Taimur-Sultan-Of-001.jpg",
+          "media": "https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391697440408/Said-ibn-Taimur-Sultan-Of-001.jpg",
           "thumbnail": "",
           "credit": "Gamma-Keystone via Getty Images",
           "caption": "Said ibn Taimur, Sultan Of Oman And Muscat in 1957"
@@ -437,7 +437,7 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391699641392/HMS-Centaur-passing-throu-001.jpg",
+          "media": "https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391699641392/HMS-Centaur-passing-throu-001.jpg",
           "thumbnail": "",
           "credit": "Popperfoto/Getty Images",
           "caption": "HMS Centaur passing through the Suez Canal en-route to Kuwait in 1961"
@@ -451,7 +451,7 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391716885785/Cameroon-001.jpg\n",
+          "media": "https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391716885785/Cameroon-001.jpg\n",
           "thumbnail": "",
           "credit": "",
           "caption": ""
@@ -465,7 +465,7 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391702722098/Brunei-revolt-1962-001.jpg",
+          "media": "https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391702722098/Brunei-revolt-1962-001.jpg",
           "thumbnail": "",
           "credit": "Hulton/ Getty Images",
           "caption": "A British commando officer being shipped back to Singapore after being wounded in the Brunei revolt, 1962"
@@ -479,7 +479,7 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391707046540/Members-of-the-Royal-Tank-001.jpg",
+          "media": "https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391707046540/Members-of-the-Royal-Tank-001.jpg",
           "thumbnail": "",
           "credit": "IWM",
           "caption": "Members of the Royal Tank Regiment on patrol in Northern Borneo, 1966"
@@ -493,7 +493,7 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391707779363/Rebels-in-Dhofar-southern-001.jpg",
+          "media": "https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391707779363/Rebels-in-Dhofar-southern-001.jpg",
           "thumbnail": "",
           "credit": "Gamma-Keystone via Getty Images",
           "caption": "Rebels in Dhofar, southern Oman, 1973."
@@ -503,11 +503,11 @@ storyjs_jsonp_data = {
         "startDate": "1963",
         "endDate": "1967",
         "headline": "Aden",
-        "text": "The insurgency against British rule in the south Arabian colony of Aden began in December 1963, when a hand-grenade was hurled at a group of British diplomates at the airport. Over the next three years the British struggled to suppress the mounting violence. Two insurgent groups, the Marxist National Liberation Front and the Arab nationalist Front for the Liberation of Occupied South Yemen, fought both the British and each other. In 1964 Britain found itself facing a second insurrection in the Radfan mountains near the border with Yemen. By 1967, the British were retreating behind a steadily-shrinking perimeter, eventually controlling just the harbour and the airport. One reporter described how the grounds of his hotel became a battlefield. “Gun battles raged furiously with thousands of rounds of ammunition whining and pinging around every building as NLF gunmen poured concentrated fire into every British position on a front of 400 yards.” When the British departed at the end of the year they left behind 125 dead, including several British civilians shot at their homes or offices. Dozens of soldiers and police loyal to the British also died, along with an estimated 1,900 civilians and insurgents.<br><br><a href=\"http://www.theguardian.com/theguardian/2011/apr/04/bloody-uprising-aden-emergency-1967\">Read an original Guardian report from 1967 of the deteriorating security situation in Aden.</a>",
+        "text": "The insurgency against British rule in the south Arabian colony of Aden began in December 1963, when a hand-grenade was hurled at a group of British diplomates at the airport. Over the next three years the British struggled to suppress the mounting violence. Two insurgent groups, the Marxist National Liberation Front and the Arab nationalist Front for the Liberation of Occupied South Yemen, fought both the British and each other. In 1964 Britain found itself facing a second insurrection in the Radfan mountains near the border with Yemen. By 1967, the British were retreating behind a steadily-shrinking perimeter, eventually controlling just the harbour and the airport. One reporter described how the grounds of his hotel became a battlefield. “Gun battles raged furiously with thousands of rounds of ammunition whining and pinging around every building as NLF gunmen poured concentrated fire into every British position on a front of 400 yards.” When the British departed at the end of the year they left behind 125 dead, including several British civilians shot at their homes or offices. Dozens of soldiers and police loyal to the British also died, along with an estimated 1,900 civilians and insurgents.<br><br><a href=\"https://www.theguardian.com/theguardian/2011/apr/04/bloody-uprising-aden-emergency-1967\">Read an original Guardian report from 1967 of the deteriorating security situation in Aden.</a>",
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391709985481/British-soldiers-confront-001.jpg\n\n",
+          "media": "https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391709985481/British-soldiers-confront-001.jpg\n\n",
           "thumbnail": "",
           "credit": "Express/ Getty",
           "caption": "British soldiers confront a civilian following a protest march in Crater, Aden, 1967"
@@ -517,11 +517,11 @@ storyjs_jsonp_data = {
         "startDate": "1969",
         "endDate": "1998",
         "headline": "Northern Ireland",
-        "text": "The British army was deployed on the streets of Northern Ireland in 1969, initially to help restore order amid widespread sectarian rioting. Operation Banner, as the British military calls its campaign in Northern Ireland, was officially declared to be at an end in 2007, although the conflict subsided dramatically with the signing of the 1998 Good Friday Agreement. The campaign had lasted 38 years: the longest uninterrupted operation ever conducted by UK forces. More than 500 soldiers died, along with 509 police and members of the security forces, 562 paramilitaries and 2,074 civilians, most of them Catholic.<br><br>Read original Guardian dispatches by <a href=\"http://www.theguardian.com/uk/1972/feb/01/bloodysunday.northernireland\">Simon Hoggart</a> and <a href=\"http://century.theguardian.com/1970-1979/Story/0,,106915,00.html\">Simon Winchester</a> from Derry in the aftermath of Bloody Sunday.<br><br><a href=\"http://century.theguardian.com/1970-1979/Story/0,,106915,00.html\">Read the Guardian's original report of the British government's decision to deploy the SAS to County Armagh in 1976.</a></a><p class='videocredit'>Video: ITN Source/Reuters/Guardian</p>",
+        "text": "The British army was deployed on the streets of Northern Ireland in 1969, initially to help restore order amid widespread sectarian rioting. Operation Banner, as the British military calls its campaign in Northern Ireland, was officially declared to be at an end in 2007, although the conflict subsided dramatically with the signing of the 1998 Good Friday Agreement. The campaign had lasted 38 years: the longest uninterrupted operation ever conducted by UK forces. More than 500 soldiers died, along with 509 police and members of the security forces, 562 paramilitaries and 2,074 civilians, most of them Catholic.<br><br>Read original Guardian dispatches by <a href=\"https://www.theguardian.com/uk/1972/feb/01/bloodysunday.northernireland\">Simon Hoggart</a> and <a href=\"https://century.theguardian.com/1970-1979/Story/0,,106915,00.html\">Simon Winchester</a> from Derry in the aftermath of Bloody Sunday.<br><br><a href=\"https://century.theguardian.com/1970-1979/Story/0,,106915,00.html\">Read the Guardian's original report of the British government's decision to deploy the SAS to County Armagh in 1976.</a></a><p class='videocredit'>Video: ITN Source/Reuters/Guardian</p>",
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "<video id='video'  preload='none' poster=''>\n\n        <source id='ogg' src='http://cdn.theguardian.tv/interactive/mp4/1080/2014/02/10/140210War100NIreland_h264-1_lo.ogv' type='video/ogg'>\n\n        <source id='webm' src='http://cdn.theguardian.tv/interactive/2014/02/10/140210War100NIreland_h264_2M_vp8.webm' type='video/webm'>\n\n        <source id='m3u8' src='http://cdn.theguardian.tv/HLS/2014/02/10/140210War100NIreland/140210War100NIreland.m3u8' type='video/m3u8'>\n\n        <source id='mp4' src='http://cdn.theguardian.tv/interactive/2014/02/10/140210War100NIreland_h264_2M_H264.mp4' type='video/mp4'>\n\n</video>",
+          "media": "<video id='video'  preload='none' poster=''>\n\n        <source id='ogg' src='https://cdn.theguardian.tv/interactive/mp4/1080/2014/02/10/140210War100NIreland_h264-1_lo.ogv' type='video/ogg'>\n\n        <source id='webm' src='https://cdn.theguardian.tv/interactive/2014/02/10/140210War100NIreland_h264_2M_vp8.webm' type='video/webm'>\n\n        <source id='m3u8' src='https://cdn.theguardian.tv/HLS/2014/02/10/140210War100NIreland/140210War100NIreland.m3u8' type='video/m3u8'>\n\n        <source id='mp4' src='https://cdn.theguardian.tv/interactive/2014/02/10/140210War100NIreland_h264_2M_H264.mp4' type='video/mp4'>\n\n</video>",
           "thumbnail": "",
           "credit": "Reuters",
           "caption": ""
@@ -531,11 +531,11 @@ storyjs_jsonp_data = {
         "startDate": "1982",
         "endDate": "1982",
         "headline": "Falklands",
-        "text": "The ten-week war between Britain and Argentina over control of the long-disputed Falkland Islands and South Georgia resulted in the deaths of 255 British servicemen, 649 Argentinians, and three civilians. More than 2,400 were wounded. Mary Watson spent the war worrying that her only son Tony, a sailor on HMS Glamorgan, might never return home. When he did, she was there to greet him off the ship. \"It was good to hold him,\" she said later. \"It was a sad occasion as well. As we were crying with joy, others would be crying with sorrow, because some of the boys hadn't come back. The whole experience of the Falkland War changed my life - I'm frightened of what's around the corner.\"<br><br><a href=\"http://www.theguardian.com/uk/1982/apr/03/falklands.past\">Read the Guardian's original report of domestic political recriminations in Britain following Argentina's invasion of the Falkland Islands.</a><br><br>Read Gareth Parry's <a href=\"http://www.theguardian.com/theguardian/2012/may/25/archive-1982-falklands-hms-antelope\">original first-hand report</a> for the Guardian of the task force landing at San Carlos Bay and <a href=\"http://www.theguardian.com/uk/2012/jul/03/falklands-conflict-british-forces-archive-1982\">his reflections on reporting the conflict alongside British forces.<br><br>Read the Guardian's <a href=\"http://www.theguardian.com/theguardian/2012/jun/15/falklands-war-ceasefire-troops-surrender-1982\">original report of the Argentinian surrender</a> and <a href=\"http://www.theguardian.com/politics/1982/jun/16/past.falklands\">leader article</a>on the end of the war.",
+        "text": "The ten-week war between Britain and Argentina over control of the long-disputed Falkland Islands and South Georgia resulted in the deaths of 255 British servicemen, 649 Argentinians, and three civilians. More than 2,400 were wounded. Mary Watson spent the war worrying that her only son Tony, a sailor on HMS Glamorgan, might never return home. When he did, she was there to greet him off the ship. \"It was good to hold him,\" she said later. \"It was a sad occasion as well. As we were crying with joy, others would be crying with sorrow, because some of the boys hadn't come back. The whole experience of the Falkland War changed my life - I'm frightened of what's around the corner.\"<br><br><a href=\"https://www.theguardian.com/uk/1982/apr/03/falklands.past\">Read the Guardian's original report of domestic political recriminations in Britain following Argentina's invasion of the Falkland Islands.</a><br><br>Read Gareth Parry's <a href=\"https://www.theguardian.com/theguardian/2012/may/25/archive-1982-falklands-hms-antelope\">original first-hand report</a> for the Guardian of the task force landing at San Carlos Bay and <a href=\"https://www.theguardian.com/uk/2012/jul/03/falklands-conflict-british-forces-archive-1982\">his reflections on reporting the conflict alongside British forces.<br><br>Read the Guardian's <a href=\"https://www.theguardian.com/theguardian/2012/jun/15/falklands-war-ceasefire-troops-surrender-1982\">original report of the Argentinian surrender</a> and <a href=\"https://www.theguardian.com/politics/1982/jun/16/past.falklands\">leader article</a>on the end of the war.",
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "<video id='video'  preload='none' poster=''>\n\n        <source id='ogg' src='http://cdn.theguardian.tv/interactive/mp4/1080/2014/02/10/140210War100Falklands_h264_mid.ogv' type='video/ogg'>\n\n        <source id='webm' src='http://cdn.theguardian.tv/interactive/2014/02/10/140210War100Falklands_h264_2M_vp8.webm' type='video/webm'>\n\n        <source id='m3u8' src='http://cdn.theguardian.tv/HLS/2014/02/10/140210War100Falklands/140210War100Falklands.m3u8' type='video/m3u8'>\n\n        <source id='mp4' src='http://cdn.theguardian.tv/interactive/2014/02/10/140210War100Falklands_h264_2M_H264-1.mp4' type='video/mp4'>\n\n</video>",
+          "media": "<video id='video'  preload='none' poster=''>\n\n        <source id='ogg' src='https://cdn.theguardian.tv/interactive/mp4/1080/2014/02/10/140210War100Falklands_h264_mid.ogv' type='video/ogg'>\n\n        <source id='webm' src='https://cdn.theguardian.tv/interactive/2014/02/10/140210War100Falklands_h264_2M_vp8.webm' type='video/webm'>\n\n        <source id='m3u8' src='https://cdn.theguardian.tv/HLS/2014/02/10/140210War100Falklands/140210War100Falklands.m3u8' type='video/m3u8'>\n\n        <source id='mp4' src='https://cdn.theguardian.tv/interactive/2014/02/10/140210War100Falklands_h264_2M_H264-1.mp4' type='video/mp4'>\n\n</video>",
           "thumbnail": "",
           "credit": "Reuters",
           "caption": ""
@@ -545,11 +545,11 @@ storyjs_jsonp_data = {
         "startDate": "1990",
         "endDate": "1991",
         "headline": "First Gulf war",
-        "text": "More than 50,000 British troops, 6,000 RAF personnel, an aircraft carrier and several destroyers were deployed to the Gulf after the Iraqi invasion of Kuwait in August 1990, to serve alongside forces from 11 other nations. UK special forces, meanwhile, began operating inside Kuwait and Iraq's Western Desert shortly after the invasion. Forty seven British servicemen were among the 400-plus coalition personnel who lost their lives, along with thousands of Iraqis. Nine British soldiers were killed in a “friendly fire” incident when their armoured convoy was attacked by a US aircraft. One, Conrad Cole, was just 17.<br><br><a href=\"http://century.theguardian.com/1990-1999/Story/0,,112384,00.html\">Read the Guardian's original report of international reaction to the Iraqi invasion of Kuwait.</a>",
+        "text": "More than 50,000 British troops, 6,000 RAF personnel, an aircraft carrier and several destroyers were deployed to the Gulf after the Iraqi invasion of Kuwait in August 1990, to serve alongside forces from 11 other nations. UK special forces, meanwhile, began operating inside Kuwait and Iraq's Western Desert shortly after the invasion. Forty seven British servicemen were among the 400-plus coalition personnel who lost their lives, along with thousands of Iraqis. Nine British soldiers were killed in a “friendly fire” incident when their armoured convoy was attacked by a US aircraft. One, Conrad Cole, was just 17.<br><br><a href=\"https://century.theguardian.com/1990-1999/Story/0,,112384,00.html\">Read the Guardian's original report of international reaction to the Iraqi invasion of Kuwait.</a>",
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391706256753/British-engineers-blow-up-001.jpg",
+          "media": "https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391706256753/British-engineers-blow-up-001.jpg",
           "thumbnail": "",
           "credit": "Patrick Baz/AFP/Getty",
           "caption": "British engineers blow up a minefield at the start of the Gulf War, 1991"
@@ -559,11 +559,11 @@ storyjs_jsonp_data = {
         "startDate": "1992",
         "endDate": "1995",
         "headline": "Bosnia",
-        "text": "British forces joined the UN peacekeeping mission in 1992 when war broke out between the Bosnians - who declared independence after the break-up of Yugoslavia – and Bosnian Serbs and Croats. Although the conflict largely ended in 1995, British troops weren't fully withdrawn until 2007; 59 died in total.<br><br><a href=\"http://century.theguardian.com/1990-1999/Story/0,,112658,00.html\">Read Maggie O'Kane's original account for the Guardian of her escape from a besieged Sarajevo.</a>",
+        "text": "British forces joined the UN peacekeeping mission in 1992 when war broke out between the Bosnians - who declared independence after the break-up of Yugoslavia – and Bosnian Serbs and Croats. Although the conflict largely ended in 1995, British troops weren't fully withdrawn until 2007; 59 died in total.<br><br><a href=\"https://century.theguardian.com/1990-1999/Story/0,,112658,00.html\">Read Maggie O'Kane's original account for the Guardian of her escape from a besieged Sarajevo.</a>",
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391711187556/A-British-UN-soldier-in-S-001.jpg\n\n",
+          "media": "https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391711187556/A-British-UN-soldier-in-S-001.jpg\n\n",
           "thumbnail": "",
           "credit": "Scott Peterson/ Getty",
           "caption": "A British UN soldier in Sarajevo, 1995"
@@ -573,11 +573,11 @@ storyjs_jsonp_data = {
         "startDate": "1999",
         "endDate": "1999",
         "headline": "Kosovo",
-        "text": "Amid the continuing break-up of the former Yugoslavia and the murder and mass deportation of Albanians in Kosovo by Serb forces, the UK joined Nato's 78-day air campaign against Serbia and then contributed to the peacekeeping force that occupied the country.<br><br><a href=\"http://century.theguardian.com/1990-1999/Story/0,,112761,00.html\">Read an original Guardian analysis of the military situation in Kosovo, published the day after Nato airstrikes began.</a>",
+        "text": "Amid the continuing break-up of the former Yugoslavia and the murder and mass deportation of Albanians in Kosovo by Serb forces, the UK joined Nato's 78-day air campaign against Serbia and then contributed to the peacekeeping force that occupied the country.<br><br><a href=\"https://century.theguardian.com/1990-1999/Story/0,,112761,00.html\">Read an original Guardian analysis of the military situation in Kosovo, published the day after Nato airstrikes began.</a>",
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391712433841/The-4th-Armoured-Brigade--001.jpg\n",
+          "media": "https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391712433841/The-4th-Armoured-Brigade--001.jpg\n",
           "thumbnail": "",
           "credit": "Tim Ockenden/ PA",
           "caption": "The 4th Armoured Brigade arrive in Urosevac, as part of Nato peacekeeping forces liberating Kosovo"
@@ -591,7 +591,7 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391712285556/British-army-helicopters--001.jpg\n\n",
+          "media": "https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391712285556/British-army-helicopters--001.jpg\n\n",
           "thumbnail": "",
           "credit": "Issouf Sanogo/ AFP",
           "caption": "British Army helicopters land in Freetown in 2000"
@@ -605,7 +605,7 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391712822498/-A-British-soldier-is-ref-001.jpg",
+          "media": "https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391712822498/-A-British-soldier-is-ref-001.jpg",
           "thumbnail": "",
           "credit": "Dan Chung for the Guardian",
           "caption": " A British soldier is reflected in a pool of oil near Basra, Iraq in 2003"
@@ -619,7 +619,7 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391713614435/Tornado-GR4-aircraft-take-001.jpg",
+          "media": "https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/6/1391713614435/Tornado-GR4-aircraft-take-001.jpg",
           "thumbnail": "",
           "credit": "Peter Macdiarmid/ Getty",
           "caption": "Tornado GR4 aircraft prepare to take off from RAF Marham for a mission to Libya in 2011"
@@ -633,7 +633,7 @@ storyjs_jsonp_data = {
         "tag": "",
         "classname": "",
         "asset": {
-          "media": "<video id='video'  preload='none' poster=''>\n\n        <source id='ogg' src='http://cdn.theguardian.tv/interactive/mp4/1080/2014/02/10/140210War100Aghanistan_h264-1_lo.ogv' type='video/ogg'>\n\n        <source id='webm' src='http://cdn.theguardian.tv/interactive/2014/02/10/140210War100Aghanistan_h264_2M_vp8.webm' type='video/webm'>\n\n        <source id='m3u8' src='http://cdn.theguardian.tv/HLS/2014/02/10/140210War100Aghanistan/140210War100Aghanistan.m3u8' type='video/m3u8'>\n\n        <source id='mp4' src='http://cdn.theguardian.tv/interactive/2014/02/10/140210War100Aghanistan_h264_2M_H264.mp4' type='video/mp4'>\n\n</video>",
+          "media": "<video id='video'  preload='none' poster=''>\n\n        <source id='ogg' src='https://cdn.theguardian.tv/interactive/mp4/1080/2014/02/10/140210War100Aghanistan_h264-1_lo.ogv' type='video/ogg'>\n\n        <source id='webm' src='https://cdn.theguardian.tv/interactive/2014/02/10/140210War100Aghanistan_h264_2M_vp8.webm' type='video/webm'>\n\n        <source id='m3u8' src='https://cdn.theguardian.tv/HLS/2014/02/10/140210War100Aghanistan/140210War100Aghanistan.m3u8' type='video/m3u8'>\n\n        <source id='mp4' src='https://cdn.theguardian.tv/interactive/2014/02/10/140210War100Aghanistan_h264_2M_H264.mp4' type='video/mp4'>\n\n</video>",
           "thumbnail": "",
           "credit": "Guardian",
           "caption": ""

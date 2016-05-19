@@ -29,8 +29,8 @@ module.exports = function(grunt) {
         },
         pushdata: {
             upload: [{
-                  src: 'src/data.jsonp',
-                  dest: 'embed/2014/feb/100-years-of-war/data.jsonp',
+                  src: 'src/datahttps.jsonp',
+                  dest: 'embed/2014/feb/100-years-of-war/datahttpsfix.jsonp',
                   options: {
                       headers: {
                           "Content-Type": "application/javascript",
@@ -48,8 +48,8 @@ module.exports = function(grunt) {
                   rel: 'src/'
               },
               {
-                  src: 'src/data.jsonp',
-                  dest: 'embed/2014/feb/100-years-of-war/data.jsonp',
+                  src: 'src/datahttpsfix.jsonp',
+                  dest: 'embed/2014/feb/100-years-of-war/datahttpsfix.jsonp',
                   options: {
                       headers: {
                           "Content-Type": "application/javascript",

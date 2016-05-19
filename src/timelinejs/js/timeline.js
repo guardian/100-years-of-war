@@ -271,7 +271,7 @@ if (typeof VMM == 'undefined') {
 			
 			valid = true;
 			
-			ce += "<img src='" + media + "'>";
+			ce += "<img src='" + media.replace('http:', 'https:') + "'>";
 			
 			// CREDIT
 			if (credit != null && credit != "") {
@@ -3132,7 +3132,7 @@ if(typeof VMM != 'undefined' && typeof VMM.ExternalAPI == 'undefined') {
 				
 				if (typeof d.entities.media != 'undefined') {
 					if (d.entities.media[0].type == "photo") {
-						twit += "<img src=' " + d.entities.media[0].media_url + "'  alt=''>"
+						twit += "<img src=' " + d.entities.media[0].media_url.replace('http:', 'https:') + "'  alt=''>"
 					}
 				}
 				
@@ -4506,9 +4506,7 @@ if(typeof VMM != 'undefined' && typeof VMM.MediaElement == 'undefined') {
 				}
 			// IMAGE
 				if (m.type				==	"image") {
-					if (m.id.match("https://")) {
-						m.id = m.id.replace("https://","http://");
-					}
+				
 					mediaElem			=	"<div class='media-image media-shadow'><img src='" + m.id + "' class='media-image'></div>";
 			// FLICKR
 				} else if (m.type		==	"flickr") {
